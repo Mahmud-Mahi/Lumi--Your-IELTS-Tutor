@@ -101,7 +101,6 @@ Two practice modes:
 ---
 
 ## 🚀 Quick Start
-## 🚀 Quick Start
 
 ### Prerequisites
 - [Node.js](https://nodejs.org/) 18+
