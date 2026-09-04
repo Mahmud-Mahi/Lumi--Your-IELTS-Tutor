@@ -136,23 +136,23 @@ LLM_API_KEY=none
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                    Frontend (React)                        │
-│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐   │
-│  │Diagnostic│ │  Score   │ │  Lesson  │ │   1v1    │   │
-│  │   Test   │ │  Report  │ │  Studio  │ │   Chat   │   │
-│  └──────────┘ └──────────┘ └──────────┘ └──────────┘   │
-│                    Web Speech API                          │
+│                    Frontend (React)                      │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐     │
+│  │Diagnostic│ │  Score   │ │  Lesson  │ │   1v1    │     │
+│  │   Test   │ │  Report  │ │  Studio  │ │   Chat   │     │
+│  └──────────┘ └──────────┘ └──────────┘ └──────────┘     │
+│                    Web Speech API                        │
 └─────────────────────────┬────────────────────────────────┘
                           │ HTTP / REST
 ┌─────────────────────────┴────────────────────────────────┐
-│                  Backend (Express)                         │
+│                  Backend (Express)                       │
 │  ┌──────────────────────────────────────────────────┐    │
-│  │            LLM Provider Cascade                    │    │
-│  │    Local → Ollama → Groq (auto-fallback)          │    │
+│  │            LLM Provider Cascade                  │    │
+│  │    Local → Ollama → Groq (auto-fallback)         │    │
 │  └──────────────────────────────────────────────────┘    │
 │  ┌─────────────────┐  ┌─────────────────────────────┐    │
-│  │   Whisper STT   │  │     Edge Neural TTS          │    │
-│  │  (sherpa-onnx)  │  │     (msedge-tts)             │    │
+│  │   Whisper STT   │  │     Edge Neural TTS         │    │
+│  │  (sherpa-onnx)  │  │     (msedge-tts)            │    │
 │  └─────────────────┘  └─────────────────────────────┘    │
 └──────────────────────────────────────────────────────────┘
 ```
