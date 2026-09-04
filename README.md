@@ -107,7 +107,28 @@ PROVIDER_PRIORITY=local,ollama,groq
 
 ### Run the App
 
+**Development** (runs the Express backend + serves the React frontend):
+
 ```bash
+npm run dev
+```
+
+**Production**:
+
+```bash
+npm run build
+npm start
+```
+
+The app will be available at **http://localhost:3000** (or the `PORT` you configured).
+
+> 💡 **Completely free & better performance — no API key needed!** Use my other repo [token-free-gateway](https://github.com/Mahmud-Mahi/token-free-gateway) — a lightweight AI gateway that exposes an OpenAI-compatible interface with full Tools support, using web AI sessions instead of API tokens. Point Lumi's `LLM_BASE_URL` at it and enjoy free, unlimited LLM access:
+
+```env
+LLM_BASE_URL=http://localhost:3456/v1
+LLM_MODEL=auto
+LLM_API_KEY=none
+```
 
 ---
 
@@ -147,6 +168,7 @@ PROVIDER_PRIORITY=local,ollama,groq
 | **Local** | Self-hosted LLM via OpenAI-compatible API | Set `LLM_BASE_URL` to your server |
 | **Ollama** | Run open-source models locally | Install [Ollama](https://ollama.com) |
 | **Groq** | Free cloud API (no credit card) | Get key at [console.groq.com](https://console.groq.com) |
+| **[token-free-gateway](https://github.com/Mahmud-Mahi/token-free-gateway)** | Free OpenAI-compatible gateway using web AI sessions — no API tokens required | Run the gateway locally and set `LLM_BASE_URL` to it |
 
 ### Environment Variables
 
@@ -214,9 +236,21 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 ---
 
+## 📬 Contact
+
+Questions, feedback, or just want to say hi? Reach out!
+
+📧 **Email**: [mahmudurahmanmahi26@gmail.com](mailto:mahmudurahmanmahi26@gmail.com)
+
+---
+
 ## 📄 License
 
-This project is open source. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/Mahmud-Mahi/Lumi--Your-IELTS-Tutor/blob/master/LICENSE)
+
+> The MIT License text is available on GitHub: [choosealicense.com/licenses/mit](https://choosealicense.com/licenses/mit/) · [GitHub's MIT license template](https://github.com/licenses/license-mit)
 
 ---
 
