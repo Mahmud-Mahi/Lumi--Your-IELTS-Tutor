@@ -75,8 +75,8 @@ Two practice modes:
 ### Installation
 
 ```bash
-git clone https://github.com/Mahmud-Mahi/Lumi-Your-IELTS-Tutor.git
-cd Lumi-Your-IELTS-Tutor
+git clone https://github.com/Mahmud-Mahi/Lumi--Your-IELTS-Tutor.git
+cd Lumi--Your-IELTS-Tutor
 npm install
 cp .env.example .env
 ```
@@ -114,26 +114,26 @@ PROVIDER_PRIORITY=local,ollama,groq
 ## 🏗️ Architecture
 
 ```
-┌─────────────────────────────────────────────────────┐
-│                    Frontend (React)                   │
-│  ┌─────────┐ ┌──────────┐ ┌─────────┐ ┌──────────┐ │
-│  │Diagnostic│ │  Score   │ │ Lesson  │ │  1v1     │ │
-│  │  Test    │ │  Report  │ │ Studio  │ │  Chat    │ │
-│  └─────────┘ └──────────┘ └─────────┘ └──────────┘ │
-│                    Web Speech API                     │
-└──────────────────────┬──────────────────────────────┘
-                       │ HTTP / REST
-┌──────────────────────┴──────────────────────────────┐
-│                 Backend (Express)                     │
-│  ┌─────────────────────────────────────────────────┐ │
-│  │           LLM Provider Cascade                   │ │
-│  │   Local → Ollama → Groq (auto-fallback)         │ │
-│  └─────────────────────────────────────────────────┘ │
-│  ┌──────────────────┐  ┌───────────────────────────┐ │
-│  │  Whisper STT      │  │  Edge Neural TTS          │ │
-│  │  (sherpa-onnx)    │  │  (msedge-tts)             │ │
-│  └──────────────────┘  └───────────────────────────┘ │
-└─────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────┐
+│                    Frontend (React)                        │
+│  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐   │
+│  │Diagnostic│ │  Score   │ │  Lesson  │ │   1v1    │   │
+│  │   Test   │ │  Report  │ │  Studio  │ │   Chat   │   │
+│  └──────────┘ └──────────┘ └──────────┘ └──────────┘   │
+│                    Web Speech API                          │
+└─────────────────────────┬────────────────────────────────┘
+                          │ HTTP / REST
+┌─────────────────────────┴────────────────────────────────┐
+│                  Backend (Express)                         │
+│  ┌──────────────────────────────────────────────────┐    │
+│  │            LLM Provider Cascade                    │    │
+│  │    Local → Ollama → Groq (auto-fallback)          │    │
+│  └──────────────────────────────────────────────────┘    │
+│  ┌─────────────────┐  ┌─────────────────────────────┐    │
+│  │   Whisper STT   │  │     Edge Neural TTS          │    │
+│  │  (sherpa-onnx)  │  │     (msedge-tts)             │    │
+│  └─────────────────┘  └─────────────────────────────┘    │
+└──────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -147,6 +147,21 @@ PROVIDER_PRIORITY=local,ollama,groq
 | **Local** | Self-hosted LLM via OpenAI-compatible API | Set `LLM_BASE_URL` to your server |
 | **Ollama** | Run open-source models locally | Install [Ollama](https://ollama.com) |
 | **Groq** | Free cloud API (no credit card) | Get key at [console.groq.com](https://console.groq.com) |
+
+### Environment Variables
+
+| Variable | Default | Description |
+|----------|---------|-------------|
+| `LLM_BASE_URL` | `http://localhost:3456/v1` | Local LLM server URL |
+| `LLM_MODEL` | `auto` | Model ID or `auto` for auto-detect |
+| `OLLAMA_BASE_URL` | `http://localhost:11434/v1` | Ollama server URL |
+| `OLLAMA_MODEL` | `ornith:9b` | Ollama model name |
+| `GROQ_API_KEY` | — | Groq API key |
+| `GROQ_MODEL` | `openai/gpt-oss-120b` | Groq model ID |
+| `PROVIDER_PRIORITY` | `local,ollama,groq` | Fallback order |
+| `TTS_ENABLED` | `true` | Enable text-to-speech |
+| `TTS_VOICE` | `en-US-JennyNeural` | Edge TTS voice ID |
+| `PORT` | `3000` | Server port |
 
 ---
 
@@ -202,23 +217,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 ## 📄 License
 
 This project is open source. See [LICENSE](LICENSE) for details.
-
----
-
-### Environment Variables
-
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `LLM_BASE_URL` | `http://localhost:3456/v1` | Local LLM server URL |
-| `LLM_MODEL` | `auto` | Model ID or `auto` for auto-detect |
-| `OLLAMA_BASE_URL` | `http://localhost:11434/v1` | Ollama server URL |
-| `OLLAMA_MODEL` | `ornith:9b` | Ollama model name |
-| `GROQ_API_KEY` | — | Groq API key |
-| `GROQ_MODEL` | `openai/gpt-oss-120b` | Groq model ID |
-| `PROVIDER_PRIORITY` | `local,ollama,groq` | Fallback order |
-| `TTS_ENABLED` | `true` | Enable text-to-speech |
-| `TTS_VOICE` | `en-US-JennyNeural` | Edge TTS voice ID |
-| `PORT` | `3000` | Server port |
 
 ---
 
