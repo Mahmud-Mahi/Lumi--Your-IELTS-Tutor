@@ -1,0 +1,290 @@
+import React, { useState, useEffect } from 'react';
+import { UserProfile, SpeakingEvaluation, SavedReport } from './types';
+import { Header } from './components/Header';
+import { OnboardingModal } from './components/OnboardingModal';
+import { DiagnosticTest } from './components/DiagnosticTest';
+import { EvaluationReport } from './components/EvaluationReport';
+import { LessonStudio } from './components/LessonStudio';
+import { LumiLiveChat } from './components/LumiLiveChat';
+import { SettingsModal } from './components/SettingsModal';
+import { lumiVoice } from './utils/speech';
+import { normalizeEvaluation } from './utils/evaluation';
+
+export default function App() {
+  const [userProfile, setUserProfile] = useState<UserProfile | null>(() => {
+    try {
+      const saved = localStorage.getItem('lumi_user_profile');
+      return saved ? JSON.parse(saved) : null;
+    } catch {
+      return null;
+    }
+  });
+
+  const [evaluation, setEvaluation] = useState<SpeakingEvaluation | null>(() => {
+    try {
+      const saved = localStorage.getItem('lumi_user_eval');
+      // Normalize: a previously stored evaluation may be partial (LLM was
+      // rate-limited/truncated) and must not crash the report view again
+      return saved ? normalizeEvaluation(JSON.parse(saved)) : null;
+    } catch {
+      return null;
+    }
+  });
+
+  // Score Report history: every completed Cambridge test / practice session is
+  // kept so the user can jump back into any old report (lumi_eval_history).
+  const [history, setHistory] = useState<SavedReport[]>(() => {
+    try {
+      const saved = localStorage.getItem('lumi_eval_history');
+      const parsed = saved ? JSON.parse(saved) : null;
+      if (Array.isArray(parsed)) return parsed;
+    } catch {}
+    return [];
+  });
+  const [activeReportId, setActiveReportId] = useState<string>('');
+
+  const [currentView, setCurrentView] = useState<'diagnostic' | 'report' | 'lessons' | 'chat'>(() => {
+    try {
+      // Resume exactly where the user left off — this is persisted on every
+      // tab change, so a mid-diagnostic session or a specific tab survives a
+      // server restart / reload.
+      const saved = localStorage.getItem('lumi_view');
+      if (saved === 'diagnostic' || saved === 'report' || saved === 'lessons' || saved === 'chat') {
+        return saved;
+      }
+      // No saved view yet: if a diagnostic was already completed, drop the
+      // user into Custom Lessons; otherwise start at chat.
+      if (localStorage.getItem('lumi_user_eval')) return 'lessons';
+    } catch {}
+    return 'chat';
+  });
+  const [showOnboarding, setShowOnboarding] = useState<boolean>(!userProfile);
+  const [showSettings, setShowSettings] = useState<boolean>(false);
+  const [voiceEnabled, setVoiceEnabled] = useState<boolean>(true);
+
+  // Sync state to localStorage
+  useEffect(() => {
+    if (userProfile) {
+      localStorage.setItem('lumi_user_profile', JSON.stringify(userProfile));
+    }
+  }, [userProfile]);
+
+  useEffect(() => {
+    if (evaluation) {
+      localStorage.setItem('lumi_user_eval', JSON.stringify(evaluation));
+    }
+  }, [evaluation]);
+
+  // Persist the Score Report history so old reports survive reloads
+  useEffect(() => {
+    try {
+      localStorage.setItem('lumi_eval_history', JSON.stringify(history));
+    } catch {}
+  }, [history]);
+
+  // One-time backfill: existing users who already completed a test before the
+  // history feature only have lumi_user_eval — seed a history entry from it so
+  // the Score Report tab never shows an empty history for existing reports.
+  useEffect(() => {
+    if (!userProfile || !evaluation) return;
+    if (history.length > 0) return;
+    const legacyId = `report-legacy-${Date.now()}`;
+    setHistory([
+      {
+        id: legacyId,
+        completedAt: Date.now(),
+        source: 'cambridge',
+        testId: evaluation.testId,
+        testLabel: evaluation.testLabel || (evaluation.testId ? 'Cambridge Test' : 'Practice Report'),
+        evaluation,
+      },
+    ]);
+    setActiveReportId(legacyId);
+  }, [userProfile, evaluation, history]);
+
+  useEffect(() => {
+    try {
+      localStorage.setItem('lumi_view', currentView);
+    } catch {}
+  }, [currentView]);
+
+  // Every tab change must cut the outgoing view's voice synchronously, BEFORE
+  // the new view mounts — its own greeting effects queue fresh speech only
+  // after this. (A useEffect watching currentView would run too late and kill
+  // the new tab's greeting instead of the old tab's voice.)
+  const handleSelectView = (view: 'diagnostic' | 'report' | 'lessons' | 'chat') => {
+    lumiVoice.stop();
+    setCurrentView(view);
+  };
+
+  const handleCompleteOnboarding = (profile: UserProfile) => {
+    lumiVoice.stop();
+    setUserProfile(profile);
+    setShowOnboarding(false);
+    setCurrentView('chat');
+  };
+
+  const handleEvaluationComplete = (newEval: SpeakingEvaluation) => {
+    lumiVoice.stop();
+    // Fill any fields the LLM left out so the report can never blank out
+    const normalized = normalizeEvaluation(newEval);
+    setEvaluation(normalized);
+    saveReportToHistory(normalized, {
+      source: 'cambridge',
+      testId: normalized.testId,
+      testLabel: normalized.testLabel || 'Cambridge Test',
+    });
+    setCurrentView('report');
+  };
+
+  // Persist a finished evaluation into the Score Report history and mark it as
+  // the one currently open. Kept bounded so localStorage never balloons.
+  const saveReportToHistory = (
+    evaluationToSave: SpeakingEvaluation,
+    opts: { source: SavedReport['source']; testId?: string; testLabel?: string }
+  ) => {
+    const id = `report-${Date.now()}-${Math.random().toString(36).slice(2, 8)}`;
+    const entry: SavedReport = {
+      id,
+      completedAt: Date.now(),
+      source: opts.source,
+      testId: opts.testId,
+      testLabel: opts.testLabel,
+      evaluation: evaluationToSave,
+    };
+    setHistory((prev) => [entry, ...prev].slice(0, 50));
+    setActiveReportId(id);
+    return id;
+  };
+
+  // Jump back into an older test's report picked from the Score Report history.
+  const handleSelectReport = (id: string) => {
+    const entry = history.find((h) => h.id === id);
+    if (!entry) return;
+    lumiVoice.stop();
+    setEvaluation(entry.evaluation);
+    setActiveReportId(id);
+  };
+
+  const handleResetProfile = () => {
+    lumiVoice.stop();
+    // Full reset: back to a fresh diagnostic on next launch
+    try {
+      localStorage.removeItem('lumi_user_eval');
+      localStorage.removeItem('lumi_user_profile');
+      localStorage.removeItem('lumi_view');
+      localStorage.removeItem('lumi_diag_progress');
+      localStorage.removeItem('lumi_eval_history');
+      localStorage.removeItem('lumi_cambridge_progress');
+    } catch {}
+    setEvaluation(null);
+    setHistory([]);
+    setActiveReportId('');
+    setUserProfile(null);
+    setCurrentView('diagnostic');
+    setShowOnboarding(true);
+  };
+
+  const handleToggleVoice = () => {
+    if (voiceEnabled) {
+      lumiVoice.stop();
+    }
+    setVoiceEnabled(!voiceEnabled);
+  };
+
+  return (
+    <div className="min-h-screen bg-[#282a36] text-[#f8f8f2] flex flex-col font-sans selection:bg-[#44475a] selection:text-[#8be9fd]">
+      {/* Dynamic Background Dracula Glow Canvas */}
+      <div className="fixed inset-0 pointer-events-none z-0 overflow-hidden">
+        <div className="absolute -top-40 -left-40 w-96 h-96 bg-[#bd93f9]/15 rounded-full blur-[140px]" />
+        <div className="absolute top-1/3 -right-40 w-96 h-96 bg-[#ff79c6]/12 rounded-full blur-[140px]" />
+        <div className="absolute -bottom-40 left-1/3 w-96 h-96 bg-[#8be9fd]/12 rounded-full blur-[140px]" />
+      </div>
+
+      {/* Main Top Header */}
+      <Header
+        currentView={currentView}
+        onSelectView={handleSelectView}
+        userProfile={userProfile}
+        evaluation={evaluation}
+        voiceEnabled={voiceEnabled}
+        onToggleVoice={handleToggleVoice}
+        onResetProfile={handleResetProfile}
+        onOpenSettings={() => setShowSettings(true)}
+      />
+
+      {/* Primary Workspace Viewport */}
+      <main className="relative z-10 flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 py-6 sm:py-8 flex flex-col">
+        {userProfile && currentView === 'diagnostic' && (
+          <DiagnosticTest
+            userProfile={userProfile}
+            voiceEnabled={voiceEnabled}
+            onToggleVoice={handleToggleVoice}
+            onEvaluationComplete={handleEvaluationComplete}
+          />
+        )}
+
+        {userProfile && currentView === 'report' && evaluation && (
+          <EvaluationReport
+            evaluation={evaluation}
+            history={history}
+            activeReportId={activeReportId}
+            onSelectReport={handleSelectReport}
+            userProfile={userProfile}
+            voiceEnabled={voiceEnabled}
+            onToggleVoice={handleToggleVoice}
+            onNavigateToLessons={() => setCurrentView('lessons')}
+            onRetakeTest={() => setCurrentView('diagnostic')}
+          />
+        )}
+
+        {userProfile && currentView === 'lessons' && evaluation && (
+          <LessonStudio
+            evaluation={evaluation}
+            userProfile={userProfile}
+            voiceEnabled={voiceEnabled}
+            onToggleVoice={handleToggleVoice}
+          />
+        )}
+
+        {userProfile && currentView === 'chat' && (
+          <LumiLiveChat
+            userProfile={userProfile}
+            evaluation={evaluation}
+            voiceEnabled={voiceEnabled}
+            onToggleVoice={handleToggleVoice}
+            onPracticeEvaluationComplete={(newEval) => {
+              lumiVoice.stop();
+              const normalized = normalizeEvaluation(newEval);
+              // Practice sessions (1v1 Chat interview) also land in the Score
+              // Report history so they are never lost behind a Cambridge retake.
+              const stamped = {
+                ...normalized,
+                testId: normalized.testId || 'practice-chat',
+                testLabel: normalized.testLabel || '1v1 Chat Practice',
+              };
+              setEvaluation(stamped);
+              saveReportToHistory(stamped, {
+                source: 'practice',
+                testLabel: stamped.testLabel,
+              });
+              setCurrentView('report');
+            }}
+          />
+        )}
+      </main>
+
+      {/* Initial Onboarding Modal */}
+      {showOnboarding && (
+        <OnboardingModal
+          onComplete={handleCompleteOnboarding}
+          voiceEnabled={voiceEnabled}
+          onToggleVoice={handleToggleVoice}
+        />
+      )}
+
+      {/* AI Engine & Voice Settings Modal */}
+      <SettingsModal open={showSettings} onClose={() => setShowSettings(false)} />
+    </div>
+  );
+}

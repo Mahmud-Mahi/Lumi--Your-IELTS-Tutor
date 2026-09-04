@@ -1,0 +1,562 @@
+[
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "Hairstyles",
+    "part": "Part 1",
+    "instruction": "Where do you go to get a haircut?",
+    "response": "There's a small barbershop two streets from my flat that I've used for years. The owner knows exactly how my hair behaves, which is worth more than any fancy salon. I book, I sit, and twenty minutes later I'm a new man."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "Hairstyles",
+    "part": "Part 1",
+    "instruction": "Have you changed your hairstyle recently?",
+    "response": "Only in the boring sense — a trim before the summer. I had a brief flirtation with a much shorter cut a couple of years ago; my mother's reaction was so dramatic that I grew it straight back. Lesson learned: consult the family first."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "Hairstyles",
+    "part": "Part 1",
+    "instruction": "Would you ever change the colour of your hair?",
+    "response": "I've been tempted by a subtle shade, honestly, but dark hair suits my skin tone, and the greys are arriving on their own schedule anyway. If I ever take the plunge, it'll be something conservative — I'm not built for electric blue."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "Hairstyles",
+    "part": "Part 1",
+    "instruction": "Do you enjoy going to the hairdresser/barber?",
+    "response": "More than I expected to, actually. There's something oddly therapeutic about it — someone else deals with your hair while you collect gossip and a head massage. The only friction is the small talk, which depends heavily on the barber."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "Cities",
+    "part": "Part 1",
+    "instruction": "How well do you know the capital city of your country?",
+    "response": "Reasonably well — I've been to Beijing several times, mostly for work and once for a proper holiday. But 'well' is generous; it's a huge city, and I've really only scratched the centre. Locals would probably laugh at my tourist route."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "Cities",
+    "part": "Part 1",
+    "instruction": "Do you think cities are exciting places to live?",
+    "response": "Generally, yes — the density of things to do is unmatched: exhibitions, food from everywhere, events every weekend. The caveat is that excitement comes bundled with noise, crowds and cost. So cities are exciting to visit, but I measure 'exciting' differently once I have to live there."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "Cities",
+    "part": "Part 1",
+    "instruction": "Why do some people dislike living in a city?",
+    "response": "Cost of living is the obvious one, but I think the deeper issue is the pace — everything feels competitive and rushed, and people can be surprisingly anonymous. Add noise, tiny flats and long commutes, and it's clear why some people trade it all for a quiet town."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "Cities",
+    "part": "Part 1",
+    "instruction": "If you could visit any city in the world, where would you go?",
+    "response": "Kyoto, without hesitation. I've read about it for years — the temples, the food culture, the pace of life. Cities like New York impress you, but I suspect Kyoto would change how I think about slowness, and that's much rarer. I'd go in autumn, deliberately."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "Spending and saving money",
+    "part": "Part 1",
+    "instruction": "When you go shopping, do you usually pay for things by cash or by card?",
+    "response": "Card or phone, almost exclusively — I genuinely can't remember the last time I carried meaningful cash. It's not even a decision anymore; payments here are so seamless that paying cash feels faintly archival. Small market stalls are the last cash stronghold."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "Spending and saving money",
+    "part": "Part 1",
+    "instruction": "Are you generally careful about how much money you spend?",
+    "response": "Moderately. I'm not a budgeting-spreadsheet person, but I do pause before purchases over a certain size and ask whether I'd still want the thing next month. Small daily spending, though — coffee, snacks — leaks away without any discipline whatsoever."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "Spending and saving money",
+    "part": "Part 1",
+    "instruction": "Have you ever spent money on something you didn't need?",
+    "response": "Oh, constantly — most recently a guitar pedal I'd convinced myself was essential. It has sat mostly unused since, a small monument to optimism. I've learned that my worst purchases all happen late at night, scrolling, so now big decisions wait until morning."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "Spending and saving money",
+    "part": "Part 1",
+    "instruction": "How important is it to you to save money for the future?",
+    "response": "Very. Watching my parents absorb a financial shock without panic taught me that savings are really peace of mind in numerical form. I save automatically each month before I can touch the money — future-me is a person I try not to rob."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "Bread",
+    "part": "Part 1",
+    "instruction": "When do you usually eat bread?",
+    "response": "Mostly breakfast — toast, usually, in a hurry. It's not central to my diet the way rice is; bread here is more of a convenience food. Though weekend brunch sometimes means proper bakery bread, which belongs to a different category altogether."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "Bread",
+    "part": "Part 1",
+    "instruction": "How important is bread in your culture?",
+    "response": "Honestly, not especially — steamed buns and rice hold that role in my culture. But it's changing in the cities; bakeries are everywhere now, and young people treat fresh sourdough as a small luxury. Bread is becoming fashionable rather than traditional, if that makes sense."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "Bread",
+    "part": "Part 1",
+    "instruction": "Have you tried any kinds of bread from other countries?",
+    "response": "Quite a few — French baguettes, German rye, Indian naan. What surprised me is how different the same category can be: some breads are meals, some are effectively cutlery. Naan taught me that bread can be soft and pillowy rather than merely a vehicle for butter."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "Bread",
+    "part": "Part 1",
+    "instruction": "Would you be interested in learning how to make bread?",
+    "response": "I'd genuinely like to — I've watched enough videos to believe I could, which is precisely how all my overconfident kitchen projects begin. The appeal is that bread rewards patience and routine. Whether I'd keep a sourdough starter alive past week two is the real question."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "Walking in Daily Life and Beyond",
+    "part": "Part 1",
+    "instruction": "How much walking do you do in your daily life?",
+    "response": "A moderate amount — I walk to the metro, take the stairs, and do a deliberate evening loop of about forty minutes. It's not exercise in the gym sense, but it's the part of the day when my brain gets to wander. I'd be lost without it."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "Walking in Daily Life and Beyond",
+    "part": "Part 1",
+    "instruction": "Did you walk more when you were at school than now?",
+    "response": "Definitely more, and without noticing. School meant walking between buildings, walking home with friends, wandering aimlessly for hours — it was social, not transport. Now walking is something I have to schedule, which is a slightly sad sentence to say out loud."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "Walking in Daily Life and Beyond",
+    "part": "Part 1",
+    "instruction": "What places are there to go for a walk near where you live?",
+    "response": "Conveniently, quite a few — a riverside path, a couple of leafy parks, and an old street quarter that's pleasant at dusk. My favourite is the river walk early in the morning, when the city belongs to joggers and herons. Nothing exotic, but it works."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "Walking in Daily Life and Beyond",
+    "part": "Part 1",
+    "instruction": "Would you ever like to go on a walking holiday?",
+    "response": "I love the idea more than I trust my feet. A gentle coastal path with villages and food along the way — yes, absolutely. A mountain trek with a tent — my enthusiasm would last precisely one uphill hour. So: walking holiday, modest version."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "Fruit Preferences and Purchases",
+    "part": "Part 1",
+    "instruction": "What's your favourite fruit?",
+    "response": "Mangoes, and it isn't close — properly ripe ones, the fragrant kind that stain your hands. Watermelon in summer is the nostalgic runner-up, being practically the taste of childhood holidays. I judge every fruit stall in a new city by its mangoes."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "Fruit Preferences and Purchases",
+    "part": "Part 1",
+    "instruction": "Are there any kinds of fruit that you don't like eating?",
+    "response": "Durian, famously — the smell alone clears rooms, and I say that as someone who grew up around it. Also unripe bananas; that chalky texture is a personal insult. I've learned not to force it: life is short and fruit options are many."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "Fruit Preferences and Purchases",
+    "part": "Part 1",
+    "instruction": "Do you like eating cooked food that has fruit in it?",
+    "response": "More than I expected — pineapple in sweet-and-sour dishes, mango in desserts, lemon over almost everything. Fruit in savoury cooking used to strike me as odd, but acidity from fruit often does the job of seasoning better than salt alone."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "Fruit Preferences and Purchases",
+    "part": "Part 1",
+    "instruction": "Where's the best place to buy fruit where you live?",
+    "response": "The morning market near my flat, without question. Supermarket fruit looks perfect and tastes of nothing, but market sellers depend on repeat customers, so quality is their reputation. My usual vendor knows I'll reject anything less than fragrant, and respects me for it."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "Childhood to Present: Museum Visits and Choices",
+    "part": "Part 1",
+    "instruction": "Did you enjoy going to museums when you were a child?",
+    "response": "Reluctantly at first — museums meant school trips and standing quietly in front of glass cases. The turning point was a natural history museum with dinosaurs, which redefined the entire concept for me. After that, I was the child dragging my parents to exhibitions."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "Childhood to Present: Museum Visits and Choices",
+    "part": "Part 1",
+    "instruction": "Are there any interesting museums near where you live now?",
+    "response": "Yes — a small city history museum and a science centre within metro distance. The history one is my favourite precisely because it's modest: local photographs, old shopfronts, everyday objects. Big national museums impress you; small local ones make you feel something."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "Childhood to Present: Museum Visits and Choices",
+    "part": "Part 1",
+    "instruction": "Do you think it is best to go to museums by yourself or with friends?",
+    "response": "Both, for different reasons. Friends turn exhibits into conversations — you notice more when you're gently arguing about a painting. But I do my best thinking alone, at my own pace, without anyone waiting by the exit. Rule of thumb: art alone, history together."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "Childhood to Present: Museum Visits and Choices",
+    "part": "Part 1",
+    "instruction": "When you visit another city or country, do you think it's important to go to a museum there?",
+    "response": "Important is too strong a word, but genuinely worthwhile. Museums compress a city's story into a single afternoon, which helps everything else you see make sense. Even a mediocre museum shows you what a place chooses to remember — and that choice itself is interesting."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "Personal Qualities: Self, Family, Friendship, and Leadership",
+    "part": "Part 1",
+    "instruction": "What do you think your best personal qualities are?",
+    "response": "I'd say patience and reliability, both of which I value precisely because they're unglamorous. I'm also mildly stubborn in a useful way — I don't abandon things easily. Whether others would rank me the same, I can't promise, but nobody has complained recently."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "Personal Qualities: Self, Family, Friendship, and Leadership",
+    "part": "Part 1",
+    "instruction": "Do you have the same personal qualities as your parents?",
+    "response": "Eerily so in some respects — my father's stubbornness and my mother's tendency to worry about everything are both fully installed in me. I've spent years trying to prune the worry while keeping the persistence. Genetics, it turns out, includes personality."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "Personal Qualities: Self, Family, Friendship, and Leadership",
+    "part": "Part 1",
+    "instruction": "What personal qualities are important to you in a friend?",
+    "response": "Honesty first — especially the kind that's willing to disappoint me. I'd rather hear an uncomfortable truth than comfortable flattery. Then humour, because shared laughter does most of the maintenance work in a friendship. Loyalty's assumed; that's the entry ticket, not the differentiator."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "Personal Qualities: Self, Family, Friendship, and Leadership",
+    "part": "Part 1",
+    "instruction": "Do you think you have the personal qualities to be a good or successful leader?",
+    "response": "Some, conditionally. I'm decent at listening and staying calm under pressure, which matter more than charisma in the long run. But leadership also demands an appetite for visibility and conflict that I only have in homeopathic doses. Good deputy, cautious leader."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "Travelling by plane",
+    "part": "Part 1",
+    "instruction": "Have you travelled a lot by plane? [To where?/Why not?]",
+    "response": "A fair amount — mostly domestic flights for work, plus a few trips abroad. Enough to have strong opinions about seats and no illusions about legroom. I actually still enjoy the take-off; everything after take-off is just logistics and bad coffee."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "Travelling by plane",
+    "part": "Part 1",
+    "instruction": "Why do you think some people enjoy travelling by plane?",
+    "response": "Partly the speed, obviously, but there's a psychological element too: airports mark the precise border between ordinary life and holiday, and people find that transition thrilling. Also, for many people, flying still feels like a small miracle they're permitted to participate in."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "Travelling by plane",
+    "part": "Part 1",
+    "instruction": "Would you like to live near an airport? [Why/Why not?]",
+    "response": "No, thank you — I value airports, but strictly as somewhere you drive to. The noise would erode my sanity one take-off at a time. Twenty or thirty minutes away seems like the perfect compromise: close enough for dawn flights, far enough to sleep."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "Travelling by plane",
+    "part": "Part 1",
+    "instruction": "In the future, do you think that you will travel by plane more often? [Why/Why not?]",
+    "response": "Possibly, though video calls have quietly replaced a surprising share of business travel. Personally I'd like to fly more for leisure rather than work — same flights, better reasons. So: more often, ideally, but with the destination as the actual point."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "international food",
+    "part": "Part 1",
+    "instruction": "Can you find food from many different countries where you live? [Why/Why not?]",
+    "response": "Yes, remarkably easily — in big Chinese cities you can eat Italian, Japanese, Thai, Mexican and more without changing districts. It's partly global supply chains and partly curiosity-driven demand. Authenticity varies wildly, but the sheer variety is genuinely impressive."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "international food",
+    "part": "Part 1",
+    "instruction": "How often do you eat typical food from other countries? [Why/Why not?]",
+    "response": "Weekly, probably — Japanese food most often, then Italian. I try to balance culinary curiosity with loyalty to my own cooking. The honest pattern: I crave international food on busy days, and my mother's cooking when I'm tired in the soul."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "international food",
+    "part": "Part 1",
+    "instruction": "Have you ever tried making food from another country? [Why/Why not?]",
+    "response": "Yes, Italian mainly — pasta from scratch, with mixed results and one legendary carbonara disaster. It taught me respect for simple cuisines: when a dish has four ingredients, you can't hide behind the sauce. These days my pasta is respectable; my confidence is calmer."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "international food",
+    "part": "Part 1",
+    "instruction": "What food from your country would you recommend to people from other countries? [Why?]",
+    "response": "Dumplings, unhesitatingly — they're complete: dough, filling, technique, and a table full of people making them together. I'd steer visitors away from restaurant versions first and towards someone's kitchen, because dumplings eaten while making them are an entirely different food."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "Holidays",
+    "part": "Part 1",
+    "instruction": "Do you prefer spending holidays with friends or with family? [Why?]",
+    "response": "Family for the big traditional holidays — those come with obligations and, honestly, real meaning. Friends for everything else, since travel styles matter enormously and my friends share my appetite for walking everywhere. The ideal year contains generous helpings of both."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "Holidays",
+    "part": "Part 1",
+    "instruction": "What kind of holiday accommodation do you like to stay in? [Why?]",
+    "response": "Small, locally-run guesthouses over hotels — I like a place with a personality and a host who tells you where locals actually eat. Luxury is largely wasted on me; I'm asleep for most of it. A good breakfast and quiet walls are my entire checklist."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "Holidays",
+    "part": "Part 1",
+    "instruction": "What plans do you have for your next holiday?",
+    "response": "Tentatively, a train trip south — I've been plotting a slow route through smaller cities rather than flying straight to the obvious spots. Nothing is booked yet, which is very unlike me, but the pleasure of the planning is currently outpacing the paperwork."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "Holidays",
+    "part": "Part 1",
+    "instruction": "Is your city or region a good place for other people to visit on holiday? [Why/Why not?]",
+    "response": "Genuinely yes — it has history, walkable old streets, and a food scene that deserves its reputation. The main drawbacks are crowds at the famous sites and summers that punish the unprepared. Visit in spring, walk early, eat everything: that's my standard advice."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "Cafés",
+    "part": "Part 1",
+    "instruction": "Do you have a favourite café? [Why/Why not?]",
+    "response": "Yes — a small independent place near my flat, run by a couple who remember orders and refuse to rush anyone. The coffee is good, but the real product is the atmosphere: unhurried, slightly shabby, full of regulars. It's effectively my external office."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "Cafés",
+    "part": "Part 1",
+    "instruction": "Do you often go to cafés by yourself? [Why/Why not?]",
+    "response": "Often — in fact I prefer it for work or reading. Sitting alone in a café with a book is one of my cheap luxuries; the murmur of strangers is better company than silence. I only find it awkward when the café is nearly empty."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "Cafés",
+    "part": "Part 1",
+    "instruction": "What do you think helps to make a café very popular? [Why?]",
+    "response": "Consistency, I think — people don't need astonishing coffee, they need reliably good coffee served by people who seem to like them. Add comfortable seats, tolerable music and a window to watch the world through, and you've covered ninety per cent of the formula."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "Cafés",
+    "part": "Part 1",
+    "instruction": "Why do some people prefer cafes that are part of large chains, rather than small, local cafés?",
+    "response": "Chains win on predictability and price, and sometimes that's exactly what you need — familiar, fast, no decisions. But they're interchangeable by design, and I think people increasingly want a face behind the counter. Locals sell character; chains sell certainty."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "Paying bills",
+    "part": "Part 1",
+    "instruction": "What kinds of bills do you have to pay?",
+    "response": "The standard adult collection: rent, electricity, water, gas, phone and internet. Plus a couple of subscriptions I periodically promise to cancel and never do. Bills are nicely automated now, which means I only truly notice them when one misbehaves."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "Paying bills",
+    "part": "Part 1",
+    "instruction": "How do you usually pay your bills - in cash or by another method? [Why?]",
+    "response": "Almost entirely through mobile banking — scheduled payments wherever possible. It's not even about convenience anymore; it's about amnesia. The downside of automation is that money leaves with zero ceremony, so I do a monthly review to catch anything quietly overcharging me."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "Paying bills",
+    "part": "Part 1",
+    "instruction": "Have you ever forgotten to pay a bill? [Why/Why not?]",
+    "response": "Once, memorably — the electricity bill, back when I first lived alone. The stern reminder notice in the hallway taught me more about adult responsibility than any lecture could have. Now everything important is on autopay precisely because my memory can't be trusted with due dates."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "Paying bills",
+    "part": "Part 1",
+    "instruction": "Is there anything you could do to make your bills cheaper? [Why/Why not?]",
+    "response": "A few things: reviewing my mobile plan annually, since loyalty is weirdly expensive, and being stricter about subscriptions I've stopped using. Energy-wise, small habits — full washing loads, off-peak timing — shave a little off. There's no magic, just attention."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "Science",
+    "part": "Part 1",
+    "instruction": "Did you like studying science when you were at school? [Why/Why not?]",
+    "response": "Loved it, mainly because our physics teacher treated every lesson like a small magic show — something was always sparking or smoking. Chemistry became my favourite subject entirely on the strength of his demonstrations. Biology I respected; physics I adored."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "Science",
+    "part": "Part 1",
+    "instruction": "What do you remember about your science teachers at school?",
+    "response": "Mostly the good ones, fortunately. My physics teacher had a habit of saying 'interesting...' right before an experiment went wrong. There was also a chemistry teacher whose enthusiasm was so complete that even written tests felt like adventures. Bad teachers fade; showmen don't."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "Science",
+    "part": "Part 1",
+    "instruction": "How interested are you in science now? [Why/Why not?]",
+    "response": "As an enthusiastic spectator — I read popular science and watch documentaries, but I no longer pretend to follow the actual papers. What interests me most is how scientific developments ripple into daily life. Curious without being expert is a perfectly respectable position."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "Science",
+    "part": "Part 1",
+    "instruction": "What do you think has been an important recent scientific development? [Why?]",
+    "response": "Practical AI, I'd say — not the science-fiction version, but the unglamorous tools now embedded in translation, medicine and search. Its recent leap from novelty to infrastructure is exactly the kind of change people underestimate while living through it. Ask me again in ten years."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "Online shopping",
+    "part": "Part 1",
+    "instruction": "How often do you buy things online? [Why?]",
+    "response": "Roughly weekly, for everything from books to household basics. It started as a convenience and quietly became infrastructure. The one category I refuse to buy online is shoes — my feet have opinions, and photographs lie about them systematically."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "Online shopping",
+    "part": "Part 1",
+    "instruction": "What was the last thing you bought online?",
+    "response": "A desk lamp, two days ago, after weeks of comparing reviews like a professional. It arrived with more packaging than lamp, works perfectly, and has already improved my evenings — which is more than most purchases can claim. Small wins deserve recording."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "Online shopping",
+    "part": "Part 1",
+    "instruction": "Do you ever see things in shops and then buy them online? [Why/Why not?]",
+    "response": "Guilty, occasionally — mostly when the price gap is absurd. I do feel mildly guilty about it, since shops provide the free showroom. My compromise is buying small things in shops when the difference is trivial, and reserving showrooming strictly for big-ticket items."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "Online shopping",
+    "part": "Part 1",
+    "instruction": "Do you think the popularity of online shopping is changing your town or city centre? [Why/Why not?]",
+    "response": "Noticeably, yes — mid-range shops are thinning out, replaced by cafés, salons and experience-based businesses. The centres that thrive are the ones offering what a parcel cannot: food, atmosphere, social life. Retail isn't dying so much as relocating to warehouses."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "Sleep",
+    "part": "Part 1",
+    "instruction": "How many hours do you usually sleep at night?",
+    "response": "Seven, give or take, on a good streak. I guard it fairly jealously these days — I've done the six-hours-and-coffee version of myself, and the productivity gains were entirely fictional. Anything under six and the next day runs on willpower alone."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "Sleep",
+    "part": "Part 1",
+    "instruction": "Do you sometimes sleep during the day? [Why/Why not?]",
+    "response": "Occasionally — a twenty-minute nap after lunch if the morning was heavy. I've learned to keep it short, because a nap that overruns steals the night's sleep and leaves me groggier than before. Twenty minutes is restorative; forty is sabotage."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "Sleep",
+    "part": "Part 1",
+    "instruction": "What do you do if you can't get to sleep at night? [Why?]",
+    "response": "The boring, effective route: no phone, dim light, and a paper book, which knocks me out within pages. If my thoughts are racing, I write them down to deal with tomorrow — it sounds silly, but outsourcing your worries to a notebook works surprisingly well."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "Sleep",
+    "part": "Part 1",
+    "instruction": "Do you ever remember the dreams you've had while you were asleep?",
+    "response": "Occasionally, and vividly — usually the strange ones. They evaporate within minutes of waking unless something about them was genuinely odd. I once dreamt an entire argument, complete with clever responses, and woke up mildly victorious about a fight that never happened."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "History",
+    "part": "Part 1",
+    "instruction": "What did you study in history lessons when you were at school?",
+    "response": "The national curriculum classics — dynasties, wars, and a decent stretch of modern history. Lots of dates and rather few stories, which is a shame because the stories are the good part. I only appreciated the subject properly once school released it from exams."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "History",
+    "part": "Part 1",
+    "instruction": "Did you enjoy studying history at school? [Why/Why not?]",
+    "response": "Honestly, no — not as it was taught. Memorising dates is to history what scales are to music: necessary, joyless, and nothing like the real thing. I rediscovered history later through books and documentaries and realised the subject had been fine; the exam had been the problem."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "History",
+    "part": "Part 1",
+    "instruction": "How often do you watch TV programmes about history now? [Why/Why not?]",
+    "response": "Fairly often — documentaries are my default viewing. I'm drawn to the social history end: how ordinary people lived, ate, argued. Battles blur together for me, but a documentary about ancient plumbing will hold me completely. The microscopic past is the fascinating one."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "History",
+    "part": "Part 1",
+    "instruction": "What period in history would you like to learn more about? [Why?]",
+    "response": "The Tang dynasty, ideally from the ground up. We skimmed it at school — 'golden age', move on — but it was an era of extraordinary openness: foreign merchants, poets as celebrities, ideas flowing in every direction. I want the details, not the headline."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "Reading",
+    "part": "Part 1",
+    "instruction": "Did you have a favourite book when you were a child? [Why/Why not?]",
+    "response": "A compilation of folk tales that I read until it physically disintegrated. I can still picture the cover. It wasn't sophisticated — talking animals, clever peasants, greedy kings — but it taught me the essential lesson that a story is a machine for wanting to know what happens next."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "Reading",
+    "part": "Part 1",
+    "instruction": "How much reading do you do for your work/studies? [Why/Why not?]",
+    "response": "A lot, though most of it is skimming — lesson materials, research, student essays. That kind of reading is targeted and fast, very different from reading for pleasure. If anything, heavy work reading makes novels more precious: fiction is where reading gets its soul back."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "Reading",
+    "part": "Part 1",
+    "instruction": "What kinds of books do you read for pleasure? [Why/Why not?]",
+    "response": "Crime fiction and literary novels, plus popular history when a topic grabs me. I want either a puzzle or beautiful sentences — ideally both at once. Self-improvement books are my personal hard line: life is too short for wisdom delivered in bullet points by a guru."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "Reading",
+    "part": "Part 1",
+    "instruction": "Do you prefer to read a newspaper or a magazine online, or to buy a copy? [Why?]",
+    "response": "Online, almost entirely, for speed and reach — though I subscribe properly rather than freeload. Print remains my choice for long weekends: a paper magazine, coffee, no notifications. The screen wins the week; print wins Sunday mornings. Both formats earn their place."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "Drinks",
+    "part": "Part 1",
+    "instruction": "What do you like to drink with your dinner? [Why?]",
+    "response": "Plain tea, usually — it cuts through oily food better than anything and doesn't fight the flavours. Water when I'm being virtuous. Soft drinks are a restaurant-only guilty pleasure; at home, dinner and tea are basically a married couple."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "Drinks",
+    "part": "Part 1",
+    "instruction": "Do you drink a lot of water every day? [Why/Why not?]",
+    "response": "Reasonably — a bottle lives on my desk and travels with me. I don't count glasses the way some people do, but I notice dehydration quickly: first a headache, then regret. Tea and coffee don't count, whatever my optimistic self claims."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "Drinks",
+    "part": "Part 1",
+    "instruction": "Do you prefer drinking tea or coffee? [Why?]",
+    "response": "Tea, culturally and habitually, though I enjoy good coffee too. Tea is rhythm — it paces the day and marks the breaks. Coffee is a tool: excellent at its job, slightly vulgar about it. If I could only keep one for life, the teapot stays."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "Drinks",
+    "part": "Part 1",
+    "instruction": "If people visit you in your home, what do you usually offer them to drink? [Why/Why not?]",
+    "response": "Tea first, automatically — it's practically a reflex here, and refusing to offer anything would feel genuinely rude. Then fruit, then the interrogation about whether they're hungry. Guests who claim not to be hungry get snacks anyway. Hospitality has its own non-negotiable physics."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "Maps",
+    "part": "Part 1",
+    "instruction": "Do you think it's better to use a paper map or a map on your phone? [Why?]",
+    "response": "Phone, without hesitation — live traffic, search, and it never sticks out of your pocket announcing 'tourist'. Paper maps are beautiful objects and terrible tools in the rain. That said, I'll happily spread out a paper map of a place I'm only dreaming about."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "Maps",
+    "part": "Part 1",
+    "instruction": "When was the last time you needed to use a map? [Why/Why not?]",
+    "response": "This weekend, navigating the back streets of an unfamiliar district on foot. The phone did the finding; I still managed the classic manoeuvre of walking confidently in the wrong direction anyway. Satellite accuracy, it turns out, cannot defeat a stubborn sense of orientation."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "Maps",
+    "part": "Part 1",
+    "instruction": "If you visit a new city, do you always use a map to find your way around? [Why/Why not?]",
+    "response": "For the first day, religiously. After that I switch to deliberate getting-lost, which is how you actually learn a city's shape. The map gets you from A to B; the wrong turns get you the stories. I use it as training wheels, then take them off."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "Maps",
+    "part": "Part 1",
+    "instruction": "In general, do you find it easy to read maps? [Why/Why not?]",
+    "response": "Reasonably — I handle orientation and scale fine, and I enjoy the little puzzle of matching streets to reality. What I never trust is my own sense of direction when it disagrees with the map; experience has taught me that the map wins that argument every time."
+  }
+]

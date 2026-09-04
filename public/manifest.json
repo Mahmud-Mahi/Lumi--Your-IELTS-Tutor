@@ -1,0 +1,33 @@
+{
+  "name": "Lumi — Your IELTS Tutor",
+  "short_name": "Lumi",
+  "description": "Your personal AI IELTS tutor for speaking evaluation, CEFR diagnostic testing, real-time voice practice, and personalized lesson plans.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#282a36",
+  "theme_color": "#282a36",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

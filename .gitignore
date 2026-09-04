@@ -1,0 +1,14 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# Local AI preferences (contains API key)
+lumi-settings.json
+
+# Whisper STT models (~113MB, downloaded on first run)
+models/

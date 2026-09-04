@@ -1,0 +1,842 @@
+[
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "types of holidays",
+    "part": "Part 3",
+    "instruction": "What are the most popular kinds of holidays for people from your country to go on?",
+    "response": "The classic ones are family visits and domestic touring — festival travel is practically a national sport here. Beach holidays are popular with younger people, and increasingly I see a split between two philosophies: packaged comfort versus independent adventure. What's changed most is that holidays used to mean visiting relatives; now people increasingly treat them as escape."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "types of holidays",
+    "part": "Part 3",
+    "instruction": "Do you think most people prefer to have a holiday abroad rather than in their own country?",
+    "response": "Traditionally domestic, mainly for cost and visa convenience, but outbound tourism has boomed with rising incomes — Southeast Asia especially. I'd say preference is shifting by generation: older travellers stay close to home, while younger people with passports treat going abroad as the default. In the end, price decides more than preference does."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "types of holidays",
+    "part": "Part 3",
+    "instruction": "Why do some people want to do absolutely nothing when they go away on holiday?",
+    "response": "Because for many people work is so consuming that a holiday is the only time their brain is genuinely off the clock. Collapsing by a pool isn't laziness — it's recovery. There's also status pressure around 'active' holidays with itineraries; for the truly exhausted, doing nothing is quietly the more honest choice."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "tourist attractions",
+    "part": "Part 3",
+    "instruction": "What are the kinds of tourist attraction that visitors to your country like to see?",
+    "response": "The historical heavyweights first: the Great Wall, the Forbidden City, the Terracotta Warriors. Beyond those, foreign visitors tend to love the contrasts — megacities like Shanghai, ancient water towns, and the dramatic landscapes of the south and west. Food tourism is growing fast too; honestly, the street food alone is an attraction in itself."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "tourist attractions",
+    "part": "Part 3",
+    "instruction": "Do you think tourist attractions such as museums should be free for local people to visit?",
+    "response": "I'd support it, with a caveat. Museums are partly funded by the public, so locals getting free or discounted access seems fair — London's free-entry model shows it can work. But completely free entry risks overcrowding and underfunding, so a small fee with free days might balance access against upkeep."
+  },
+  {
+    "header": "Cambridge 2026 (Test-1)",
+    "topic": "tourist attractions",
+    "part": "Part 3",
+    "instruction": "What can make a tourist attraction disappointing for visitors?",
+    "response": "Usually a gap between marketing and reality: heavily photoshopped expectations meeting an entirely ordinary pond. Overcrowding kills it too — queuing two hours to photograph a monument through a forest of selfie sticks. And commercialisation is a quiet killer: when the surroundings are all souvenir stalls, the magic tends to leave the building."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and children",
+    "part": "Part 3",
+    "instruction": "Do you think children are more honest than adults?",
+    "response": "Often, yes — small children are spectacularly bad at lying, mostly because they haven't learned to manage impressions. But I'd refine that: they're not more moral, just less strategic. By eight or nine they lie socially like the rest of us. So it's innocence rather than integrity, and the distinction matters."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and children",
+    "part": "Part 3",
+    "instruction": "Why do adults tell children it's important to be honest?",
+    "response": "Partly practical — society runs on trust, and children who lie get excluded from it. Partly moral: parents want to pass on values they genuinely believe in. And partly self-protective, if we're honest: a child who lies smoothly to teachers will eventually lie to parents, and everyone quietly senses that."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and children",
+    "part": "Part 3",
+    "instruction": "Do you think there are sometimes good reasons for adults not to tell children the truth?",
+    "response": "Definitely — protective lies are part of good parenting. There's no value in a five-year-old grappling with mortality in its rawest form. The line I'd draw is between simplifying the truth and replacing it with a fiction. One is age-appropriate translation; the other is a betrayal of trust."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and advertising",
+    "part": "Part 3",
+    "instruction": "Are there any claims in advertisements that are sometimes not true?",
+    "response": "Legally, outright lies are banned, so the dishonesty is subtler: implication. 'Nine out of ten dentists' with an asterisk, beauty ads admitting the model's lashes aren't real, 'up to fifty per cent off' where almost nothing is half price. Nothing is technically false; a surprising amount is misleading by design."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and advertising",
+    "part": "Part 3",
+    "instruction": "Why do people still buy things even when they know advertisements aren't completely accurate?",
+    "response": "Because advertising works on emotion, not logic. We buy the identity the ad promises — confidence, attractiveness, success — and by the time the product disappoints, the purchase is already made. There's also simple hope involved: the small, persistent possibility that this time, this one really is different."
+  },
+  {
+    "header": "Cambridge 2026 (Test-2)",
+    "topic": "honesty and advertising",
+    "part": "Part 3",
+    "instruction": "Do you think advertisements that are dishonest should be banned?",
+    "response": "Dishonest ones already are banned, and I'd enforce that far more vigorously. But I'd stop short of banning exaggeration — puffery is so woven into marketing that the courts would drown in cases. The better fix is sharp enforcement of specific false claims, combined with consumers who actually read the asterisks."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "homes and gardens",
+    "part": "Part 3",
+    "instruction": "What are the advantages of having a home with a garden?",
+    "response": "Practical and psychological. Practically: fresh vegetables, a place for children to play, lower food bills if you're serious about it. Psychologically, I think the effect is bigger — a garden is a small piece of nature you control, which calms people in a way a balcony never quite manages."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "homes and gardens",
+    "part": "Part 3",
+    "instruction": "How could people living in apartment blocks grow plants and vegetables?",
+    "response": "More than you'd think — balconies take containers surprisingly well; herbs, tomatoes and chillies all thrive there. Community gardens are the clever solution: residents claim a plot on the roof or shared grounds. And indoor vertical growing systems are getting cheaper every year. Where there's a will, there's usually a windowsill."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "homes and gardens",
+    "part": "Part 3",
+    "instruction": "How interested are people in your country in TV shows and magazines about gardens?",
+    "response": "Surprisingly high, and growing — garden renovation shows have become comfort-viewing gold. I think they sell transformation, the same appeal as cooking shows: modest budget, dramatic before-and-after. Older viewers watch for practical ideas; younger ones watch for the satisfying reveal. Either way, the genre is in rude health."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "gardening as a hobby",
+    "part": "Part 3",
+    "instruction": "Do you think that gardening is a hobby mainly for older people?",
+    "response": "Stereotypically yes, but that's changing fast — urban gardening has become genuinely fashionable among young renters, driven by houseplants, sustainability concerns and pandemic-era habits. The stereotype survives mainly because retired people simply have more time and more land. Interest in growing things itself, though, is clearly cross-generational now."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "gardening as a hobby",
+    "part": "Part 3",
+    "instruction": "What are the benefits for people of gardening as a hobby?",
+    "response": "Exercise that doesn't feel like exercise, fresh produce, and — the underrated one — mental health. Gardening is slow, tactile and delivers results over months rather than minutes, which is a rare and valuable rhythm in modern life. Plus there's a specific, ancient pride in eating something you grew from a seed."
+  },
+  {
+    "header": "Cambridge 2026 (Test-3)",
+    "topic": "gardening as a hobby",
+    "part": "Part 3",
+    "instruction": "Will gardening be a more popular hobby in the future?",
+    "response": "I believe so, for three converging reasons: health consciousness, environmental concern, and shrinking trust in industrial food supply chains. Space is the obvious constraint, which is exactly why balcony and community gardening are booming. Gardening will look different in future — more containers, more vertical — but more popular, definitely."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competitions",
+    "part": "Part 3",
+    "instruction": "What kinds of competitions do people like to enter in your country?",
+    "response": "Everything from academic olympiads to street-dance contests. Exams are effectively a national competition, though we don't call them that. Singing and talent shows have huge followings, esports have exploded recently, and at the community level there's always a chess club or a baking contest somewhere. Competition is woven into daily life."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competitions",
+    "part": "Part 3",
+    "instruction": "What do you think is the best kind of prize to win in a competition?",
+    "response": "It depends on the competition, but the best prizes combine recognition with usefulness. Cash is flexible but forgettable; trophies are meaningful but impractical. I'd argue the ideal prize advances the winner — a scholarship, an internship, professional equipment. A prize that opens doors beats one that gathers dust on a shelf."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competitions",
+    "part": "Part 3",
+    "instruction": "Why do people like watching quiz shows and other competitions on TV?",
+    "response": "Participation by proxy — viewers play along at home and feel clever when they know the answers. There's also the suspense structure: quiz shows are cheap to produce but genuinely gripping. And there's a comforting fairness to them; unlike most success on television, quiz wins are earned by knowledge in real time."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competition in sports",
+    "part": "Part 3",
+    "instruction": "How important is it to be very competitive at sport?",
+    "response": "Useful, not essential. Competitiveness drives training and sharpens performance, but athletes who last tend to be driven more by mastery than by beating people — pure competitiveness burns out. In team sports, an overload of it can even poison cooperation between teammates. I'd prescribe moderate doses."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competition in sports",
+    "part": "Part 3",
+    "instruction": "Do you think sportsppeople perform better when they play against competitors who are stronger than they are?",
+    "response": "Generally yes — stronger opponents stretch you, expose weaknesses and raise the standard of everything you do. The caveat is confidence: a beginner facing a champion mostly learns humiliation. The sweet spot is opponents slightly above your level — close enough to hope, strong enough to force you to grow."
+  },
+  {
+    "header": "Cambridge 2026 (Test-4)",
+    "topic": "competition in sports",
+    "part": "Part 3",
+    "instruction": "Why do some people think that taking part in sport is more important than winning?",
+    "response": "I agree, with an asterisk. At youth and amateur level, participation builds character, fitness and friendships that long outlast the scores. But at professional level, winning is the job — nobody buys tickets for participation. The phrase should guide how we treat children, not how we judge professionals."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "theatre in your country",
+    "part": "Part 3",
+    "instruction": "What are the most popular kinds of plays or shows at theatres in your country?",
+    "response": "Traditional opera and acrobatic shows coexist with touring musicals and big international imports in the major cities. Comedy clubs have grown fast recently, and experimental theatre has a small but devoted following. The reliable crowd-pleasers remain the classics — plus, frankly, anything with spectacular staging."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "theatre in your country",
+    "part": "Part 3",
+    "instruction": "How easy is it to get tickets to the theatre?",
+    "response": "It depends entirely on what you want. Big musicals and star performances sell out in minutes and get resold at painful markups, while smaller theatres often have empty seats. So it's easy to see something, but hard to see the thing everyone wants. Timing and flexibility matter more than money."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "theatre in your country",
+    "part": "Part 3",
+    "instruction": "Do you think theatres need to do more to attract younger audiences?",
+    "response": "Definitely more effort is needed — the average theatre audience is ageing while young people consume drama on their phones. Things that work: modern retellings, shorter formats, social-media-friendly productions, and crucially, student pricing. Theatre is competing with streaming now, and pretending otherwise is slow suicide."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "working as an actor",
+    "part": "Part 3",
+    "instruction": "What do you think attracts people to working as an actor?",
+    "response": "A tangle of things: the craft itself, the strange thrill of becoming someone else entirely, and for some, the fame. I think the deepest motivation is being truly seen — a live audience reacting to you in real time is an intimacy no screen can replicate. And of course, temporary escape from an ordinary self."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "working as an actor",
+    "part": "Part 3",
+    "instruction": "What are some of the qualities that a person needs to have if they want to become an actor?",
+    "response": "Thick skin comes first — rejection is the daily weather of that profession. Then empathy, to inhabit characters unlike yourself; discipline, because the work is far less glamorous than the image suggests; resilience for unpredictable income; and memory, obviously. Talent matters, but persistence does the heavy lifting."
+  },
+  {
+    "header": "Cambridge 2025 (Test-1)",
+    "topic": "working as an actor",
+    "part": "Part 3",
+    "instruction": "Can you think of any disadvantages of working as an actor?",
+    "response": "Income instability tops the list — most actors piece together work between jobs for years. Then unsocial hours, constant travel, typecasting, and the psychological toll of being judged constantly on appearance and performance. There's also the industry's power imbalance: young actors absorb a remarkable amount of mistreatment quietly. The glamour mostly lives in the trailer."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "plans with friends",
+    "part": "Part 3",
+    "instruction": "What kinds of plans do friends make together?",
+    "response": "The light things first: trips, weekends, birthdays. But close friends plan bigger logistics too — moving cities together, half-serious business ideas, even vaguely co-ordinated life milestones. With real friends, the planning is less about the plan itself than about confirming that a shared future exists."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "plans with friends",
+    "part": "Part 3",
+    "instruction": "Do you think it's better to discuss future plans with friends or with family?",
+    "response": "Different tools for different jobs. Friends give honest peer-level feedback without the weight of family expectations; family knows your history and can warn you about your own patterns. I'd discuss dreams with friends and practical consequences with family — then make the final call myself, having heard both."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "plans with friends",
+    "part": "Part 3",
+    "instruction": "When making plans for the future,is it important not to copy friends?",
+    "response": "It's not about copying; it's about alignment. Friends' choices are useful data — what worked for them, what it cost them. The danger is choosing a path to match the group rather than yourself. Comparison is fine as information; as a compass, it's quietly corrosive."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "choosing a career",
+    "part": "Part 3",
+    "instruction": "When people are choosing what to study, how important is it that their course should lead directly to a career?",
+    "response": "Important, but overrated as the sole criterion. Some professions genuinely require a specific degree — medicine, engineering, law. But plenty of careers hire on skills and adaptability, and the job market now changes faster than curricula do. I'd weight interest and aptitude heavily, because passion sustains the long learning curve."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "choosing a career",
+    "part": "Part 3",
+    "instruction": "Why is it a good idea to get some work experience before deciding on a future career?",
+    "response": "Invaluable — I'd make it near-universal. Work experience converts fantasy into data: you discover what the job actually feels like on a Tuesday afternoon, which no brochure or careers fair reveals. It also teaches workplace basics — deadlines, hierarchy, office politics — that universities simply never cover."
+  },
+  {
+    "header": "Cambridge 2025 (Test-2)",
+    "topic": "choosing a career",
+    "part": "Part 3",
+    "instruction": "How easy do you think it is for people to change from one career to another?",
+    "response": "Easier than ever in some fields, where skills transfer and online learning fills the gaps. Harder where licensing, seniority or deep specialisation act as walls — medicine or law, say. The real cost isn't learning the new skill; it's the temporary step backwards in salary, status and seniority."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "satisfaction in life",
+    "part": "Part 3",
+    "instruction": "What are some aspects of people's lives that they can often be dissatisfied with?",
+    "response": "The usual suspects: work, money and time — or rather, the lack of all three. Relationships and health matter more but tend to get attention only when they fail. I think modern dissatisfaction comes less from what people have than from constant comparison, which social media has quietly industrialised."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "satisfaction in life",
+    "part": "Part 3",
+    "instruction": "Would you say that having ambitions in life is always a positive thing?",
+    "response": "Not always. Ambition is rocket fuel for a fulfilled life, but unmanaged it becomes a treadmill — each achievement resetting the goalposts and the anxiety. The healthiest version aims at growth rather than at beating other people. Ambition should serve your life, not consume it."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "satisfaction in life",
+    "part": "Part 3",
+    "instruction": "What do you believe the most important components are of a satisfying life?",
+    "response": "The research and my own observation agree on a short list: close relationships, meaningful work or purpose, decent health, and enough money that money stops being a daily topic. Notice what's absent — fame, luxury, constant pleasure. Satisfaction seems to be less about acquiring more and more about wanting what you already have."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "job satisfaction",
+    "part": "Part 3",
+    "instruction": "What makes a job more satisfying: a high salary or having good colleagues?",
+    "response": "Colleagues, for long-term satisfaction — we spend more waking hours with coworkers than with most family members, and a toxic team can poison even generous pay. But I'd add a condition: the salary must feel fundamentally fair. Once it does, further raises buy surprisingly little additional happiness."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "job satisfaction",
+    "part": "Part 3",
+    "instruction": "Do you think people need to change jobs regularly if they want to stay satisfied at work?",
+    "response": "Not regularly for its own sake, but before stagnation sets in. Satisfaction comes from growth, and growth sometimes requires a new environment rather than more years in the same chair. The real skill is distinguishing a genuine plateau from a temporary rough patch — quitting too early carries its own costs."
+  },
+  {
+    "header": "Cambridge 2025 (Test-3)",
+    "topic": "job satisfaction",
+    "part": "Part 3",
+    "instruction": "Is it possible to find job satisfaction in all types of work?",
+    "response": "Possibly not in all, but in far more than people expect. Research keeps finding meaning where outsiders assume drudgery — cleaners who see themselves as healers of spaces, drivers who take pride in passenger safety. Where work is truly grinding, fair pay and dignity carry a lot. But some jobs are harder to love, and pretending otherwise is dishonest."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "the news",
+    "part": "Part 3",
+    "instruction": "How do most people find out about the news in your country?",
+    "response": "Overwhelmingly through phones — social feeds and news apps first, with television still strong among older generations. Print has retreated to the weekend. The revealing detail: most people now encounter news through headlines pushed to them rather than seeking it out, which quietly changes what 'knowing the news' even means."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "the news",
+    "part": "Part 3",
+    "instruction": "Are people more interested in local news than national news?",
+    "response": "Counter-intuitively, I think engagement is more personal than geographic. People care most about what affects them directly, so a local school closure can beat a national scandal in attention. But national news dominates feeds and airtime, so people know more about national politics while caring more about local consequences."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "the news",
+    "part": "Part 3",
+    "instruction": "How important is it to know about international news?",
+    "response": "Important, and increasingly hard to avoid anyway. Trade, pandemics, climate — the big forces shaping ordinary lives are international by nature. You don't need daily detail, but a working mental map of the world is part of being a functional citizen. Wilful ignorance of it is a luxury that keeps getting more expensive."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "discussion programmes",
+    "part": "Part 3",
+    "instruction": "Why are discussion programmes involving members of the public popular on TV and radio?",
+    "response": "Because they replace the dinner-table argument people no longer have. Watching articulate strangers clash over issues you hold opinions on is genuinely engaging — it's conflict with rules. And they're cheap to produce while feeling alive and unpredictable, unlike polished scripted news. The format practically markets itself."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "discussion programmes",
+    "part": "Part 3",
+    "instruction": "What kinds of people want to take part in discussion programmes?",
+    "response": "A mix: genuine enthusiasts with a cause, professional commentators, the simply confident, and the recruited — studios actively hunt strong personalities because calm consensus is terrible television. What you rarely see is the thoughtful, uncertain middle of the audience, which is arguably the format's biggest blind spot."
+  },
+  {
+    "header": "Cambridge 2025 (Test-4)",
+    "topic": "discussion programmes",
+    "part": "Part 3",
+    "instruction": "Do discussion programmes influence people in a good or bad way?",
+    "response": "Both, and the split is instructive. Good: they expose the public to opposing views and force officials to answer uncomfortable questions. Bad: they reward performance over substance — the loudest voice reads as the strongest argument. On balance I'd keep them, but viewers should remember it's theatre with news attached."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "school rules",
+    "part": "Part 3",
+    "instruction": "What kinds of rules are common in a school?",
+    "response": "The universal set: attendance requirements, uniforms in most schools, phone restrictions, and behavioural codes around respect and safety. Safety rules are strict — fire drills, controlled campus entry. Increasingly there are rules born of the smartphone era: devices collected at the door, and social-media conduct policies that extend beyond school hours."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "school rules",
+    "part": "Part 3",
+    "instruction": "How important is it to have rules in a school?",
+    "response": "Essential, but not for the reason people assume. Rules aren't primarily about control; they're about predictability — children learn best where consequences are consistent and fair. A school without rules isn't freedom; it's chaos with better public relations. That said, the best schools explain their rules rather than merely enforcing them."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "school rules",
+    "part": "Part 3",
+    "instruction": "What do you recommend should happen if children break school rules?",
+    "response": "Proportionate consequences, starting with conversation — most breaches are signals, not crimes. Detention or restitution for repeated issues, and parental involvement for serious ones. What I'd avoid is humiliation as a punishment; it teaches resentment, not responsibility. The goal is a child who understands the why, not one who merely fears being caught."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "the legal profession",
+    "part": "Part 3",
+    "instruction": "Can you suggest why many students decide to study law at university?",
+    "response": "A mixture of motives. Some genuinely want justice; many are drawn by status and the courtroom-drama image, courtesy of television. Practical families push law as a respectable, versatile degree that opens doors beyond practice — business, politics, media. Not everyone reckons with the actual workload until the first year of study."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "the legal profession",
+    "part": "Part 3",
+    "instruction": "What are the key personal qualities needed to be a successful lawyer?",
+    "response": "Analytical precision first — law is detail work disguised as argument. Then persuasion and clear communication, since brilliance you can't articulate is useless in a courtroom. Resilience for long hours and adverse rulings, discretion, and a genuine ethical compass; without that last quality, all the others become downright dangerous."
+  },
+  {
+    "header": "Cambridge 2024 (Test-1)",
+    "topic": "the legal profession",
+    "part": "Part 3",
+    "instruction": "Do you agree that working in the legal profession is very stressful?",
+    "response": "Widely, yes. Long hours, adversarial work, clients in crisis, and the knowledge that mistakes carry real consequences for real people. Junior lawyers often sacrifice their entire twenties to billable hours. The stress isn't incidental; it's structural. Firms have started acknowledging mental health, which is progress — though progress at a lawyer's pace."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards at school",
+    "part": "Part 3",
+    "instruction": "What types of school prizes do children in your country receive?",
+    "response": "The classics: academic excellence awards, subject prizes, sports trophies and attendance certificates. Recently, more schools deliberately add awards for effort, kindness and improvement — recognising progress rather than just ranking. That shift reflects a healthier philosophy: reward the behaviour you want repeated, not merely the highest score."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards at school",
+    "part": "Part 3",
+    "instruction": "What do you think are the advantages of rewarding schoolchildren for good work?",
+    "response": "Short-term motivation, certainly — recognition is powerful for children. Done well, it builds confidence and signals what a community values. The risk is over-reliance: children trained to work only for prizes can lose intrinsic motivation, and those never rewarded may conclude effort is pointless. Rewards should be seasoning, not the meal."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards at school",
+    "part": "Part 3",
+    "instruction": "Do you agree that it's more important for children to receive rewards from their parents than from teachers?",
+    "response": "Different currencies. Teacher rewards carry objective weight — they certify achievement against a standard — while parent rewards carry emotional weight. I'd say both matter, but the deeper goal is children who eventually reward themselves through satisfaction in the work itself. External praise is scaffolding, not the building."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards in sport",
+    "part": "Part 3",
+    "instruction": "Do you think that some sportspeople (e.g., top footballers) are paid too much money?",
+    "response": "By market logic, they're paid exactly what their scarce skills generate in revenue, so 'too much' is the wrong frame. But the comparison stings, and rightly so: nurses and teachers create far more social value for a fraction of the income. The problem isn't the players; it's industry economics gone wildly inflated."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards in sport",
+    "part": "Part 3",
+    "instruction": "Should everyone on a team get the same prize money when they win?",
+    "response": "Usually no — sport rewards contribution, and pretending otherwise insults the competition itself. That said, I'd defend equal pay where roles are structurally equal, and prize structures should keep team effort alive: stars win matches, but squads win seasons. Fair doesn't always mean identical."
+  },
+  {
+    "header": "Cambridge 2024 (Test-2)",
+    "topic": "rewards in sport",
+    "part": "Part 3",
+    "instruction": "Do you agree with the view that, in sport, taking part is more important than winning?",
+    "response": "I agree, with an asterisk. At youth and amateur level, participation builds skills, character and a love of the game that outlasts any scoreboard. But at professional level, winning is the profession — that's what the tickets pay for. The mature view holds both: play to win, remember what sport gives beyond results."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "driving a car",
+    "part": "Part 3",
+    "instruction": "How interested are young people in your country in learning to drive?",
+    "response": "Less enthusiastic than previous generations, noticeably. In big cities, excellent public transport plus ride-hailing makes car ownership feel like an expensive chore, so many young people delay licences indefinitely. In smaller towns, driving remains practical and popular. So the interest is real, but increasingly conditional on where you live."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "driving a car",
+    "part": "Part 3",
+    "instruction": "What are the differences between driving in the countryside and driving in the city?",
+    "response": "Rural driving is technically harder but mentally easier — higher speeds, narrow roads, wildlife and darkness, but no traffic and friendlier locals. City driving is the reverse: slow, dense and endlessly interruptive, with constant negotiation of pedestrians and scooters. Countryside risks are rare and severe; city risks are constant and minor."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "driving a car",
+    "part": "Part 3",
+    "instruction": "Do you consider most drivers where you live to be good drivers?",
+    "response": "Mixed, honestly. Technical skill is generally fine; the problems are attitude — phone use, aggressive lane changes, and a loose interpretation of indicators. Enforcement has improved things over the years, but I'd say a majority drive competently while a noisy minority drive dangerously. As everywhere, the bad ones are the memorable ones."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "electric cars",
+    "part": "Part 3",
+    "instruction": "How popular are electric cars in your country?",
+    "response": "Growing fast, pushed by subsidies, licence-plate policies in big cities, and a genuinely competitive domestic market. In urban areas, EVs are now mainstream — you see green plates everywhere. Rural adoption lags behind, mainly due to charging infrastructure. But directionally, this is one of the fastest energy transitions anywhere in the world."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "electric cars",
+    "part": "Part 3",
+    "instruction": "In what ways could more people be persuaded to buy electric cars?",
+    "response": "Three levers: cost, convenience and confidence. Purchase subsidies help, but the decisive factors are charging — more public stations, plus home charging solutions for people without private driveways — and honest education about real-world range. The second-hand EV market needs to mature too; early buyers shouldn't be subsidising depreciation experiments."
+  },
+  {
+    "header": "Cambridge 2024 (Test-3)",
+    "topic": "electric cars",
+    "part": "Part 3",
+    "instruction": "Do you think all cars will be electric oneday?",
+    "response": "New car sales, quite possibly within a couple of decades — the technology trajectory and policy commitments all point that way. The entire existing fleet takes far longer to turn over, and some niches — remote regions, heavy haulage — will resist longest. I'd also expect hybrids to linger as the bridge technology. 'Mostly electric' is a safe bet; 'all' is a stretch."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "the beauty industry",
+    "part": "Part 3",
+    "instruction": "Do you agree that most beauty products are a waste of money?",
+    "response": "Largely, yes — the industry thrives on hope in a jar. Basic sunscreen and a decent moisturiser have real, proven value; the four-hundred-dollar serum with exotic ingredients mostly funds the marketing department. Skin is biology, not alchemy. Though in fairness, people also buy pleasure and ritual, and if a cream feels pampering, that's a purchase, not an investment."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "the beauty industry",
+    "part": "Part 3",
+    "instruction": "How does the beauty industry advertise its products so successsfully?",
+    "response": "By selling insecurity first and the solution second — 'flaws' you never knew you had, conveniently fixable for a price. Add pseudoscience delivered by actors in lab coats, celebrity trust transfer, and before-and-after imagery that's often literally manipulated. The real genius is emotional: they market identity and self-worth, then attach a price tag."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "the beauty industry",
+    "part": "Part 3",
+    "instruction": "What do you think of the view that beauty products should not be advertised to children?",
+    "response": "Strongly agree. Children can't reliably distinguish persuasion from information, and beauty marketing manufactures anxieties in bodies that are still forming — the harm shows up in documented rises in body-image distress. Adults can cynically evaluate a claim; a nine-year-old internalises it as truth. Some markets deserve protection from marketing, and this is squarely one."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "beauty and culture",
+    "part": "Part 3",
+    "instruction": "Why do many people equate youth with beauty?",
+    "response": "Evolutionary programming plays a part — youth does signal health, and we're not immune to our wiring. But industry amplifies it mercilessly, because anti-ageing is the most profitable anxiety ever invented, and decades of media repetition cement the equation. Worth noting: many cultures historically prized age as beauty. Ours had to be taught otherwise — profitably."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "beauty and culture",
+    "part": "Part 3",
+    "instruction": "Do you think that being beautiful could affect a person's success in life?",
+    "response": "Depressingly, the evidence says yes — the so-called beauty premium shows up in hiring, promotion, even sentencing decisions. Attractive people are presumed more competent, and it's largely unconscious, which makes it stubborn. Awareness helps individuals counteract it, and systems can be designed around it — blind auditions in orchestras proved that decades ago."
+  },
+  {
+    "header": "Cambridge 2024 (Test-4)",
+    "topic": "beauty and culture",
+    "part": "Part 3",
+    "instruction": "Why might society's ideas about beauty change over time?",
+    "response": "Because beauty standards track economics and media rather than truth. Fuller figures signalled wealth in eras of scarcity; thinness became aspirational once abundance arrived. Globalisation homogenised standards for a generation, and social media is now fragmenting them again — slowly widening the gate, though the monetisation of new insecurities needs careful watching."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "children and cooking",
+    "part": "Part 3",
+    "instruction": "What kinds of things can children learn to cook?",
+    "response": "Age-appropriate wins: washing rice, cracking eggs, simple no-heat dishes like salads and sandwiches, then graduating to scrambled eggs and basic noodles. A couple of signature dishes matter more than technique at that stage — a child who can cook one meal they're proud of is usually hooked for life."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "children and cooking",
+    "part": "Part 3",
+    "instruction": "Do you think it is important for children to learn to cook?",
+    "response": "Very — and it's underweighted in education. Cooking teaches chemistry, measurement, patience and nutrition in a single activity, plus a self-reliance that outlasts school entirely. There's also the health angle: people who cook tend to eat better for decades. I'd rank it alongside swimming as a basic life skill."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "children and cooking",
+    "part": "Part 3",
+    "instruction": "Do you think young people should learn to cook at home or at school?",
+    "response": "Both, with different jobs to do. School can guarantee that every child learns the basics — that equity matters, since not all homes teach it. But home is where cooking becomes culture and affection rather than a lesson. Ideally, school removes the 'I can't' and home provides the 'I love to'."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "working as a chef",
+    "part": "Part 3",
+    "instruction": "How enjoyable do you think it would be to work as a professional chef?",
+    "response": "Romantic from the outside, brutal up close — long hours on your feet, a hot kitchen, and evenings and holidays worked precisely when everyone else is celebrating. But for people who love it, the live-fire energy and the instant feedback of feeding people is genuinely addictive. It depends entirely on how you handle pressure."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "working as a chef",
+    "part": "Part 3",
+    "instruction": "What skills does a person need to be a great chef?",
+    "response": "Palate first — you can't fix what you can't taste. Then technique, physical stamina, and crucially management skill, because kitchens run on leadership under fire. Creativity matters, but discipline matters more; consistency is the true test of a chef. And a thick skin helps — criticism arrives nightly, in public, from strangers."
+  },
+  {
+    "header": "Cambridge 2023 (Test-1)",
+    "topic": "working as a chef",
+    "part": "Part 3",
+    "instruction": "How much influence do celebrity/TV chefs have on what ordinary people cook?",
+    "response": "Considerable, for better and worse. Celebrity chefs have raised food culture, demystified techniques and got millions of people into kitchens — that's real value. The distortion is aspirational cooking: home cooks chase spectacular camera-ready dishes instead of mastering weeknight competence. Their recipes also tend toward the photogenic rather than the practical."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "museums and art galleries",
+    "part": "Part 3",
+    "instruction": "What are the most popular museums and art galleries in... / where you live?",
+    "response": "The national flagships draw the biggest crowds — the Palace Museum above all, plus the major science and natural history museums that families love. Locally, city museums covering regional history hold a steady audience. And there's a newer trend: small specialty museums — tea, cinema, even umbrellas — pulling in curious younger visitors."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "museums and art galleries",
+    "part": "Part 3",
+    "instruction": "Do you believe that all museums and art galleries should be free?",
+    "response": "I support free or heavily subsidised access, with some nuance. Museums are educational infrastructure, and admission prices filter out exactly the visitors who'd benefit most. But 'free' must be funded properly, otherwise maintenance suffers and the collection quietly decays. The workable model: free general entry, paid special exhibitions, taxpayers covering the base."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "museums and art galleries",
+    "part": "Part 3",
+    "instruction": "What kinds of things make a museum or art gallery an interresting place to visit?",
+    "response": "Storytelling first — objects alone are dead; objects inside a narrative are spellbinding. Interactivity helps when it's substantive rather than gimmicky. Good lighting, honest labels written in plain language, and rotating exhibits so there's a reason to come back. And the best museums respect your intelligence and your feet — seating matters more than anyone admits."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "the holiday industry",
+    "part": "Part 3",
+    "instruction": "Why, do you think, do some people book package holidays rather than travelling independently?",
+    "response": "Because they trade money for certainty — flights, hotel, transfers, one payment, one point of responsibility. For families with young children, or first-time travellers anxious about the unknown, that predictability is worth the premium. Independent travel is cheaper and richer, but it assumes confidence and time for research, which not everyone has."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "the holiday industry",
+    "part": "Part 3",
+    "instruction": "Would you say that large numbers of tourists cause problems for local people?",
+    "response": "They can, when volumes overwhelm local infrastructure: rents spike as flats become holiday lets, residential streets turn into souvenir corridors, and residents' daily routines become somebody's photo backdrop. Overtourism isn't the tourists' individual fault, though; it's a management failure. Cities that cap flows and spread visitors across seasons keep both the industry and the residents."
+  },
+  {
+    "header": "Cambridge 2023 (Test-2)",
+    "topic": "the holiday industry",
+    "part": "Part 3",
+    "instruction": "What sort of impact can large holiday resorts have on the environment?",
+    "response": "Severe when unregulated — coastal construction erodes shorelines, resorts hoard water in dry regions, waste overwhelms local systems, and coral suffers from anchoring and sunscreen alike. The worst model imports everything and exports nothing but profit. Well-managed resorts, however, can fund conservation and create local jobs; the difference lies in regulation and intent."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family occasions",
+    "part": "Part 3",
+    "instruction": "When do families celebrate together in your country?",
+    "response": "The lunar new year above everything — that's the pilgrimage everyone makes. Then the mid-autumn festival, weddings, and the milestone birthdays: the first, the sixtieth, the eightieth. Graduations and promotions get family dinners too. The pattern is that the bigger the life transition, the more the family gathers around it."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family occasions",
+    "part": "Part 3",
+    "instruction": "How often do all the generations in a family come together in your country?",
+    "response": "Less than before, honestly — migration for work has scattered families across cities and provinces, so full multi-generational gatherings now cluster around the Spring Festival. Video calls fill the gaps weekly, which helps, but it isn't the same thing. There's a quiet irony there: we're more connected than ever and gather less than ever."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family occasions",
+    "part": "Part 3",
+    "instruction": "Why is it that some people might not enjoy attending family occasions?",
+    "response": "Because gatherings can double as audits — intrusive questions about salary, marriage and children, delivered with love and experienced as interrogation. There's also obligation fatigue: for some people these events are performance rather than connection. And old family conflicts resurface with remarkable reliability, like furniture that never moves."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family life",
+    "part": "Part 3",
+    "instruction": "Do you think it is a good thing for parents to help their children with schoolwork?",
+    "response": "Up to a point, yes — interest and encouragement help enormously. But doing the work for them, or hovering over every worksheet, tends to backfire: children learn that the homework is the parent's problem rather than their own. Help with structure, be patient with struggle — the struggle is where the learning actually lives."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family life",
+    "part": "Part 3",
+    "instruction": "How important do you think it is for families to eat together at least once a day?",
+    "response": "Very important, less for the nutrition than for the function. The shared meal is the last daily checkpoint where a family compares notes — it's where children learn conversation and parents notice when something's wrong. Every single day may be unrealistic in modern schedules; several times a week, protected and phone-free, captures most of the value."
+  },
+  {
+    "header": "Cambridge 2023 (Test-3)",
+    "topic": "family life",
+    "part": "Part 3",
+    "instruction": "Do you believe that everyone in a family should share household tasks?",
+    "response": "Yes, with age-appropriate expectations. Sharing tasks isn't just fairness towards whoever currently carries the load — usually invisibly, usually the mother. It's training: children who contribute grow into adults who don't assume housework is somebody else's job. Even small, badly made beds count — effort comes before skill."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "friends at school",
+    "part": "Part 3",
+    "instruction": "How important is it for children to have lots of friends at school?",
+    "response": "Very — school is children's first society, and friendships are where they learn negotiation, loyalty and conflict resolution. Academically, a friend network also buffers stress; lonely children find everything harder. I'd stop short of insisting on 'lots', though: two or three genuine friendships beat a crowd of acquaintances every time."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "friends at school",
+    "part": "Part 3",
+    "instruction": "Do you think it is wrong for parents to influence which friends their children have?",
+    "response": "Guidance is legitimate; engineering friendships is not. There's a real difference between noticing that a child's friend is a bad influence and vetting friends for status. Heavy-handed bans usually backfire — forbidden friendships become thrilling. The workable approach: keep conversations open, know the friends, and let the child's own judgment develop."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "friends at school",
+    "part": "Part 3",
+    "instruction": "Why do you think children often choose different friends as they get older?",
+    "response": "Because friendships at that age track identity, and identity keeps changing. Interests shift — the football crowd gives way to the music crowd. Schools reshuffle classes, and some friendships survive only on convenience. It looks fickle from outside, but it's development: children are rehearsing who they'll become, and the cast updates accordingly."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "making new friends",
+    "part": "Part 3",
+    "instruction": "If a person is moving to a new town, what is a good way for them to make friends?",
+    "response": "Structured repetition. Join something that meets weekly — a club, a class, a sports group. Friendship needs repeated low-stakes contact, which is exactly what shared activities provide. Colleagues help but rarely become close; a common interest gives you a reason to keep meeting until, almost unnoticed, strangers turn into friends."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "making new friends",
+    "part": "Part 3",
+    "instruction": "Can you think of any disadvantages of making new friends online?",
+    "response": "A few, honestly. Online friendships can be heavily curated — you get someone's highlight reel, misrepresentation is easier, and connections can drift away without any closure. They also lack the small physical currencies of friendship: helping each other move house, sitting together in comfortable silence. Real enough, but they supplement rather than replace."
+  },
+  {
+    "header": "Cambridge 2023 (Test-4)",
+    "topic": "making new friends",
+    "part": "Part 3",
+    "instruction": "Would you say it is harder for people to make new friends as they get older?",
+    "response": "Objectively yes, and the reasons are structural rather than emotional: less free time, more relocation, and fewer built-in social structures like classrooms. Plus adults are guarded — we've all been hurt before, so we pre-screen carefully. The successful older friend-makers treat it like exercise: scheduled, regular, and slightly awkward at first."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "neighbours",
+    "part": "Part 3",
+    "instruction": "What sort of things can neighbours do to help each other?",
+    "response": "The small logistics of life: collecting parcels, watering plants, lending tools and ladders, feeding the cat. In emergencies they're the fastest responders — the people who notice something's wrong. With children and elderly residents, they're a genuine safety net. The best neighbourly relationships run on small favours exchanged without ceremony or debt."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "neighbours",
+    "part": "Part 3",
+    "instruction": "How well do people generally know their neighbours in your country?",
+    "response": "It depends heavily on housing type. In older neighbourhoods with courtyards and street life, people know everyone's business — sometimes too much of it. In high-rise blocks, many residents can't name the person next door. Urban mobility thins the connections: you can live beside someone for years and share only a lift."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "neighbours",
+    "part": "Part 3",
+    "instruction": "How important do you think it is to have good neighbours?",
+    "response": "High — you can choose your friends but not your neighbours, and neighbours are the people physically closest when things go wrong. A good one is emergency contact, informal security and local knowledge combined. You don't need friendship, but you do need the kind of relationship where asking a favour isn't awkward."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "facilities in cities",
+    "part": "Part 3",
+    "instruction": "Which facilities are most important to people living in cities?",
+    "response": "The unglamorous ones: healthcare access, schools, public transport and green space. Glibly put: what people use weekly matters more than what they use yearly. Culture and entertainment matter to a city's soul, but if the clinic, the bus line and the park all work, a city is liveable. Get the basics right; the rest is garnish."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "facilities in cities",
+    "part": "Part 3",
+    "instruction": "How does shopping in small local shops differ from shopping in large city centre shops?",
+    "response": "Small local shops trade in relationship: they know your order, extend informal credit, and adapt to the neighbourhood in ways chains can't. Large stores win on price, range and parking. City centres are steadily losing the small shops to rent, and with them a layer of daily sociability that no supermarket has ever replicated."
+  },
+  {
+    "header": "Cambridge 2022 (Test-1)",
+    "topic": "facilities in cities",
+    "part": "Part 3",
+    "instruction": "Do you think that children should always go to the school nearest to where they live?",
+    "response": "Generally sensible — it keeps children local, builds neighbourhood community and cuts commute risks. But strict zoning creates its own unfairness: school quality varies enormously, and catchment rules quietly turn housing prices into gatekeeping. I'd keep the presumption of nearby schools while allowing transfers for genuine need, rather than pretending all schools are equal."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "cities on holiday",
+    "part": "Part 3",
+    "instruction": "What are the most interesting things to do while visiting cities on holiday?",
+    "response": "The walks and the food, more than the checklist. The great museums and landmarks matter, but the memorable moments tend to be free: getting lost in an old quarter, a market at opening time, dinner wherever the queue is entirely local. Cities reward curiosity on foot far more than they reward itineraries."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "cities on holiday",
+    "part": "Part 3",
+    "instruction": "Why can it be expensive to visit cities on holiday?",
+    "response": "Demand concentration — everyone wants the same compact centre, and hotels price accordingly. Tourists also pay the convenience tax: airport transfers, attraction entries, eating out three times a day. Add seasonal surges and unfavourable exchange rates, and a city break can outcost a beach week. Timing and choosing your neighbourhood are the main defences."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "cities on holiday",
+    "part": "Part 3",
+    "instruction": "Do you think it is better to visit cities alone or in a group with friends?",
+    "response": "It depends on the city's mood. Groups are better for food cities and nightlife — shared meals are rather the point. Solo is better for dense, walkable cities full of galleries and cafés, where you set your own pace and talk to strangers more easily. My rule of thumb: art alone, food together."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "the growth of cities",
+    "part": "Part 3",
+    "instruction": "Why have cities increased in size in recent years?",
+    "response": "The gravitational logic of jobs — cities concentrate work, education and services, so people follow opportunity. Agricultural efficiency released rural labour exactly as cities demanded it. Add the social pull: hospitals, universities and possibility all live there. People don't move to cities despite the crowds; they move because of the opportunity density."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "the growth of cities",
+    "part": "Part 3",
+    "instruction": "What are the challenges created by ever-growing cities?",
+    "response": "Housing first — demand outruns supply, and rents swallow incomes. Then traffic and pollution, strained water and waste systems, and the inequality problem: services lag in the fastest-growing districts. The deep challenge is keeping cities liveable while they scale, because infrastructure historically always arrives late and slightly under budget."
+  },
+  {
+    "header": "Cambridge 2022 (Test-2)",
+    "topic": "the growth of cities",
+    "part": "Part 3",
+    "instruction": "In what ways do you think cities of the future will be different to cities today?",
+    "response": "In three visible ways: cleaner — electrified transport and finally breathable air; smarter — sensors managing traffic, energy and waste in real time; and greener — vertical gardens, restored rivers, rooftops that double as farms. The bigger question is social: whether future cities stay affordable enough to remain what they've always been — ladders."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "public monuments",
+    "part": "Part 3",
+    "instruction": "What kinds of monuments do tourists in your country enjoy visiting?",
+    "response": "The imperial set: the Great Wall, the Forbidden City, the Terracotta Warriors — the icons justify their fame. Beyond those, visitors respond strongly to the unexpected: mountains of Buddhist stone carving, ancient water towns, solemn war memorials. The pattern is that tourists love monuments that tell a story they half-know already."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "public monuments",
+    "part": "Part 3",
+    "instruction": "Why do you think there are often statues of famous people in public places?",
+    "response": "Statues are arguments in bronze. Communities erect them to say: this person's values are ours — remember them. It's also civic identity: a square feels claimed and storied once someone's statue stands in it. The current debates about removing statues reveal the flip side: who we choose to honour is always a live political question."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "public monuments",
+    "part": "Part 3",
+    "instruction": "Do you agree that old monuments and buildings should always be preserved?",
+    "response": "Mostly yes, but not absolutely. Old buildings are non-renewable memory — once demolished, they're gone forever, and cities that erased their past have tended to regret it culturally and even commercially. But preservation shouldn't mean embalming; cities need to live and adapt. I'd preserve generously, repurpose flexibly, and demolish only with heavy justification."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "architecture",
+    "part": "Part 3",
+    "instruction": "Why is architecture such a popular university subject?",
+    "response": "A combination of prestige and practicality. Architecture sits at the crossroads of art and engineering, which attracts people who want creativity with a career — the stakes are visible for a century. There's also the romantic image, all sketches and skylines, though students discover the reality involves heavy physics and heavier software."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "architecture",
+    "part": "Part 3",
+    "instruction": "In what ways has the design of homes changed in recent years?",
+    "response": "Towards openness and sustainability, clearly. Open-plan living, bigger windows, home offices designed in from the start rather than improvised. Energy efficiency has moved from selling point to baseline: insulation, solar, heat pumps. And kitchens have quietly become the social centre of the home, which would have puzzled designers a century ago."
+  },
+  {
+    "header": "Cambridge 2022 (Test-3)",
+    "topic": "architecture",
+    "part": "Part 3",
+    "instruction": "To what extent does the design of buildings affect people's moods?",
+    "response": "Profoundly, and mostly without our notice. High ceilings and natural light measurably lift mood and focus; cramped, dim spaces do the opposite, and hospitals now design recovery wards accordingly. We respond to proportion, light and materials more emotionally than rationally. Architects shape moods daily — they just rarely get the credit or the blame."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "arriving late",
+    "part": "Part 3",
+    "instruction": "Do you think it's OK to arrive late when meeting a friend?",
+    "response": "Five or ten minutes with a warning text — forgivable, we're all human. Habitual lateness is different: it quietly announces that your time matters less than mine, and friendship keeps records. The older I get, the more I've come to see punctuality as a form of respect rather than a rigid formality."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "arriving late",
+    "part": "Part 3",
+    "instruction": "What should happen to people who arrive late for work?",
+    "response": "Proportionately. An occasional late arrival after a transport failure deserves understanding, not a file note. Chronic lateness is a performance issue that needs an honest conversation — sometimes flexible hours solve it outright. Formal discipline makes sense only when the pattern persists despite warnings. Punishing the exception is how you lose good people."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "arriving late",
+    "part": "Part 3",
+    "instruction": "Can you suggest how people can make sure they don't arrive late?",
+    "response": "Engineer the morning instead of trusting it: prepare everything the night before, add a twenty-minute buffer, and set alarms for leaving, not just for waking. Check transport the evening before, not at the front door. And the psychological trick that works best: schedule yourself to arrive early, and treat the buffer as the actual appointment."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "managing study time",
+    "part": "Part 3",
+    "instruction": "Is it better to study for long periods or in shorter blocks of time?",
+    "response": "Shorter blocks win for most people — concentration is a muscle that fatigues, and spaced repetition beats cramming for long-term memory. That said, deep, complex work sometimes needs one unbroken stretch. So: short, timed sessions with real breaks for routine study, and long protected sessions reserved for writing and difficult problem-solving."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "managing study time",
+    "part": "Part 3",
+    "instruction": "What are the likely effects of students not managing their study time well?",
+    "response": "A reliable cascade: all-nighters before deadlines, shallow cramming that evaporates a week after the exam, chronic sleep debt, and creeping anxiety as the work always feels behind. Worst of all, it's self-reinforcing — panic studying confirms the belief that you work well under pressure, which is usually nostalgia for low standards."
+  },
+  {
+    "header": "Cambridge 2022 (Test-4)",
+    "topic": "managing study time",
+    "part": "Part 3",
+    "instruction": "How important is it for students to have enough leisure time?",
+    "response": "Essential, and not out of kindness — it's functional. Leisure is when memory consolidates and motivation refuels; students with zero downtime burn out precisely when exams matter most. Leisure isn't the opposite of study; it's part of the system. The healthiest schedules protect sleep, some daily unstructured time, and at least one genuinely free day."
+  }
+]

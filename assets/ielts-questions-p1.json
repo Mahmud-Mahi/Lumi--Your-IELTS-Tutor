@@ -1,0 +1,962 @@
+[
+  {
+    "topic": "bike",
+    "part": "Part 1",
+    "instruction": "Do you have a bike now?",
+    "response": "To be honest, I'm more of a fair-weather cyclist these days — I do have a bike, but it mostly gathers dust unless the weather's nice. When I do take it out, it's usually for short hops to the supermarket, which beats sitting in traffic."
+  },
+  {
+    "topic": "bike",
+    "part": "Part 1",
+    "instruction": "Did you have a bike when you were young?",
+    "response": "Oh, absolutely — my bike was practically my best friend growing up. I'd ride around the neighbourhood with the other kids until the streetlights came on, and I still remember that thrilling sense of freedom it gave me, like the whole world was within reach."
+  },
+  {
+    "topic": "bike",
+    "part": "Part 1",
+    "instruction": "Do you think riding bikes is popular in your country?",
+    "response": "Very much so, especially with bike-sharing apps everywhere. What's interesting is that cycling has shifted from being a necessity to something of a lifestyle choice — you see professionals commuting on shared bikes precisely because it dodges the rush-hour gridlock."
+  },
+  {
+    "topic": "coins",
+    "part": "Part 1",
+    "instruction": "Do you often take coins with you?",
+    "response": "Rarely, if ever, to be honest. Between mobile payments and my bank card, cash barely features in my daily routine, let alone coins. I've got a jar of them gathering dust at home — every now and then I remember it exists."
+  },
+  {
+    "topic": "coins",
+    "part": "Part 1",
+    "instruction": "Have you collected coins?",
+    "response": "I did, as a matter of fact — as a kid I was obsessed with my little coin album, especially anything foreign. Relatives travelling abroad would bring back stray coins for me, and I'd pore over the designs like they were tiny works of art."
+  },
+  {
+    "topic": "coins",
+    "part": "Part 1",
+    "instruction": "Is it convenient to use coins?",
+    "response": "Frankly, no — they're becoming something of a relic. Most shops would rather you tapped your phone than fumbled for change, and coins are a nuisance to carry and count. The only place I still find them handy is the odd vending machine."
+  },
+  {
+    "topic": "coins",
+    "part": "Part 1",
+    "instruction": "Do you use coins in your daily life?",
+    "response": "Barely at all, which is a bit of a sign of the times. Everything from groceries to taxi rides goes through my phone now. I keep a couple of coins rattling in my bag for emergencies, but nine times out of ten they just sit there."
+  },
+  {
+    "topic": "coins",
+    "part": "Part 1",
+    "instruction": "Did you use coins as a child?",
+    "response": "All the time! Coins were my entire economy back then — a couple of them meant a snack from the corner shop or the bus to school. I even had a piggy bank, and shaking out my savings at the end of the year felt like striking gold."
+  },
+  {
+    "topic": "roads",
+    "part": "Part 1",
+    "instruction": "Are the roads in the area where you live busy?",
+    "response": "Far busier than I'd like, particularly at rush hour. Since the area's packed with shops and eateries, there's a constant stream of cars and delivery scooters, and come evening the honking can be relentless. It's the one thing I'd change about the neighbourhood."
+  },
+  {
+    "topic": "roads",
+    "part": "Part 1",
+    "instruction": "How do people cross the road in the city where you live?",
+    "response": "Mostly at zebra crossings and traffic lights, as you'd expect, though you'll still spot the odd person dashing across mid-street. The drivers here are fairly considerate — they generally slow down — but jaywalking at night is asking for trouble, if you ask me."
+  },
+  {
+    "topic": "roads",
+    "part": "Part 1",
+    "instruction": "How is the condition of the roads in your city?",
+    "response": "Generally decent, I'd say, though some of the older back streets are dotted with potholes. The council does patch them up eventually, but there's often a lag. What bothers me more is the lack of proper bike lanes, which makes cycling a bit nerve-racking."
+  },
+  {
+    "topic": "roads",
+    "part": "Part 1",
+    "instruction": "Do you think the roads in your city need improvement?",
+    "response": "Without a doubt. Beyond resurfacing the worn-out sections, I'd love to see more protected bike lanes and smarter drainage — whenever we get a heavy downpour, certain intersections turn into temporary lakes, which tells you the system isn't coping."
+  },
+  {
+    "topic": "roads",
+    "part": "Part 1",
+    "instruction": "How many roads are there in your neighborhood?",
+    "response": "Just a handful, really — a couple of quiet residential streets, all lined with trees. Hardly anything passes through, which is precisely why I like it: it's this little pocket of calm where the worst traffic you'll encounter is someone's dog."
+  },
+  {
+    "topic": "perfume",
+    "part": "Part 1",
+    "instruction": "Do you like perfume? Why?",
+    "response": "I do, more than I'd probably admit. There's something about a good scent that quietly lifts your confidence — I find it's the finishing touch to any outfit, and people remember how you smell far longer than what you wore."
+  },
+  {
+    "topic": "perfume",
+    "part": "Part 1",
+    "instruction": "Do you have many bottles of perfume? Why?",
+    "response": "Just a modest collection, maybe four or five bottles. I'm not a collector by any means, but I like having options — something fresh and light for the office, something warmer for evenings. Fragrance is oddly mood-dependent for me."
+  },
+  {
+    "topic": "perfume",
+    "part": "Part 1",
+    "instruction": "Would you ever give perfume as a gift?",
+    "response": "I would, though with a caveat — scent is such a personal thing that it can easily backfire. I'd only give perfume to someone whose taste I know well; otherwise a candle or something similar feels like the safer bet."
+  },
+  {
+    "topic": "transport",
+    "part": "Part 1",
+    "instruction": "Which means of transport is convenient?",
+    "response": "In the big cities here, the metro wins hands down — it's cheap, punctual, and completely immune to traffic. Trains can be sardine-tight at peak times, granted, but you can get almost anywhere in town in well under an hour."
+  },
+  {
+    "topic": "transport",
+    "part": "Part 1",
+    "instruction": "Which means of transport is expensive?",
+    "response": "Taxis and ride-hailing, no contest — especially during surge pricing, when a short hop can cost more than a restaurant meal. Flights can sting too, but if you book well ahead they're often surprisingly reasonable."
+  },
+  {
+    "topic": "transport",
+    "part": "Part 1",
+    "instruction": "What are the advantages of using public transport?",
+    "response": "The obvious one's cost, but what people overlook is how stress-free it is — no parking, no traffic, and you can read or doze off on the way. Multiply that across an entire city, and the environmental payoff is enormous."
+  },
+  {
+    "topic": "humour",
+    "part": "Part 1",
+    "instruction": "Do you enjoy watching funny movies?",
+    "response": "Very much so — there's nothing like a good comedy to switch my brain off after a long day. I'm not fussy about the type either, though clever satire beats slapstick for me. A proper belly laugh is the best stress-buster I know."
+  },
+  {
+    "topic": "humour",
+    "part": "Part 1",
+    "instruction": "Do you think you are a funny person?",
+    "response": "I'd like to think I'm more witty than hilarious, if that makes sense. I'm not the one performing stand-up at parties, but I enjoy a well-timed joke, and my close friends seem genuinely amused by me — or they're very good actors."
+  },
+  {
+    "topic": "humour",
+    "part": "Part 1",
+    "instruction": "Do you always laugh at funny things?",
+    "response": "Almost reflexively, yes — I'm the person chuckling at memes while queuing at the bank. I do have the occasional stone-faced day, but a genuinely funny story gets me every single time, no matter how often I've heard it."
+  },
+  {
+    "topic": "views",
+    "part": "Part 1",
+    "instruction": "What is the view like around the place where you live?",
+    "response": "Pleasant rather than spectacular, I'd say. From my window there's a decent stretch of greenery, and a couple of small parks nearby soften the whole area. It's not postcard material, but it's calm — and that suits me just fine."
+  },
+  {
+    "topic": "views",
+    "part": "Part 1",
+    "instruction": "Have you seen an unforgettable view?",
+    "response": "There's one I'll never forget — watching the sunrise from a mountain ridge a few years ago. The mist pooled in the valleys while the peaks caught fire with pink and gold light. Photos don't do it justice; it genuinely stopped me in my tracks."
+  },
+  {
+    "topic": "views",
+    "part": "Part 1",
+    "instruction": "Will you take photos if you see a good view?",
+    "response": "Whenever I remember, which admittedly isn't always. There's a trade-off, though — the camera can distract you from actually experiencing the moment. So these days I'll take a couple of quick shots, then put the phone away and simply soak it up."
+  },
+  {
+    "topic": "teamwork",
+    "part": "Part 1",
+    "instruction": "Did you do a lot of teamwork when you were a child?",
+    "response": "Quite a lot, now that I think about it — group projects, school sports, even neighbourhood games all demanded cooperation. Looking back, that was probably where I first learned that things go far more smoothly when you actually listen to other people."
+  },
+  {
+    "topic": "teamwork",
+    "part": "Part 1",
+    "instruction": "Do you like teamwork?",
+    "response": "Broadly, yes — the best ideas usually come out of people bouncing thoughts off each other. That said, I've sat through enough group work to know it only functions when everyone genuinely contributes. So: great in principle, occasionally painful in practice."
+  },
+  {
+    "topic": "teamwork",
+    "part": "Part 1",
+    "instruction": "Have you teamed up with someone else before?",
+    "response": "Plenty of times, from university group assignments to cross-department projects at work. One that stands out was organising a campus fundraiser with three friends — complete chaos at times, but we pulled it off, and it taught me a great deal about dividing up roles."
+  },
+  {
+    "topic": "teamwork",
+    "part": "Part 1",
+    "instruction": "What do you learn from working in a team?",
+    "response": "Chiefly, how to communicate — voicing your view without steamrolling others, and hearing criticism without bristling. You also discover your own working style, whether you're a planner or an improviser. Honestly, teamwork is where classroom knowledge meets reality."
+  },
+  {
+    "topic": "teamwork",
+    "part": "Part 1",
+    "instruction": "What do you dislike about teamwork?",
+    "response": "The uneven effort, without a doubt — there's always someone who coasts while the rest carry the load. Endless back-and-forth over minor decisions is a close second. It's taught me to set clear roles upfront, which prevents most of it."
+  },
+  {
+    "topic": "films",
+    "part": "Part 1",
+    "instruction": "What films do you like?",
+    "response": "I lean towards anything with a gripping story — thrillers, mysteries, the odd historical epic. Special effects wash over me; it's the characters that keep me glued. If a film can genuinely surprise me in the final act, it's earned my respect."
+  },
+  {
+    "topic": "films",
+    "part": "Part 1",
+    "instruction": "Did you often watch films when you were a child?",
+    "response": "Constantly — Saturday movie night was sacred in our house. Dad would rent films, we'd make popcorn, and the whole family would pile onto the sofa. Half my childhood memories seem to have a movie soundtrack playing behind them, really."
+  },
+  {
+    "topic": "films",
+    "part": "Part 1",
+    "instruction": "Do you think going to the cinema is a good way to spend time with friends?",
+    "response": "Definitely one of the better options — it's low-effort fun with a built-in conversation topic afterwards. Half the enjoyment is the post-film debate over whether the ending made any sense, usually over dinner. Cheaper than most nights out, too."
+  },
+  {
+    "topic": "talking",
+    "part": "Part 1",
+    "instruction": "Do you like to talk with others?",
+    "response": "I genuinely do — I'm that person who chats with strangers in queues. Everyone carries a story or a perspective you hadn't considered, and you leave the conversation a little richer. It's also how all of my friendships started, come to think of it."
+  },
+  {
+    "topic": "talking",
+    "part": "Part 1",
+    "instruction": "Do you like to talk a lot with others?",
+    "response": "It depends entirely on the company. With close friends I can rabbit on for hours; in a room of strangers I go quiet and observe. I've made peace with being a context-dependent talker — the quality of a conversation matters more to me than the quantity."
+  },
+  {
+    "topic": "talking",
+    "part": "Part 1",
+    "instruction": "Did you like to talk with others when you were a child?",
+    "response": "I was a chatterbox from day one — reportedly exhausting. I asked questions constantly, which I'm told drove my parents up the wall at times. But it's also how I learned nearly everything as a child, so I'd argue it paid off in the end."
+  },
+  {
+    "topic": "fishing",
+    "part": "Part 1",
+    "instruction": "Do you like eating fish?",
+    "response": "Enormously — it's probably my favourite protein. Steamed fish with ginger and spring onions is comfort food for me, and I appreciate that it's light and healthy. The only real downside is the archaeology involved in picking out the bones."
+  },
+  {
+    "topic": "fishing",
+    "part": "Part 1",
+    "instruction": "Have you ever been fishing?",
+    "response": "A couple of times, years ago. Honestly, the fishing was almost incidental — sitting by the water at dawn with a thermos of tea was the real appeal. I caught precisely one fish, which was more luck than skill, and I'm fine admitting that."
+  },
+  {
+    "topic": "fishing",
+    "part": "Part 1",
+    "instruction": "Is fishing a very popular activity in your country?",
+    "response": "In certain circles, very — coastal towns treat it as part of their local identity, and you'll see clusters of enthusiasts by the rivers every weekend. Among young urbanites, though, it's more of a niche thing; most of my friends would rather watch fishing videos than fish."
+  },
+  {
+    "topic": "free time",
+    "part": "Part 1",
+    "instruction": "What free time activities are popular with people in your country?",
+    "response": "Café-hopping and online gaming probably top the list for the younger crowd, while the older generation favours square dancing in the plaza and tai chi in the park at dawn. Streaming box-sets are universal, and gym culture has exploded recently too."
+  },
+  {
+    "topic": "free time",
+    "part": "Part 1",
+    "instruction": "What do you do when you have free time?",
+    "response": "It depends on my energy levels: if I'm drained, it's a book or a series on the sofa; if I've got something left in the tank, I'll go for a long walk or cook something ambitious. Meet-ups with friends tend to happen on weekends."
+  },
+  {
+    "topic": "free time",
+    "part": "Part 1",
+    "instruction": "What is the difference between the way people spend their free time now and in the past?",
+    "response": "Night and day, mostly thanks to screens. My parents' generation filled their evenings with neighbours, card games and hobbies; ours defaults to scrolling and streaming. We're arguably more entertained than ever — but far less connected face-to-face."
+  },
+  {
+    "topic": "friends",
+    "part": "Part 1",
+    "instruction": "Do you like making friends?",
+    "response": "I love it — each new friendship is a window into a completely different life. It does get harder as you get older, since adults are busy and guarded, but I try to stay open. Some of my best friendships grew out of chance conversations."
+  },
+  {
+    "topic": "friends",
+    "part": "Part 1",
+    "instruction": "Did you make a lot of friends when you were a child?",
+    "response": "Not many, truth be told — I was the shy kid hovering at the edge of the playground. But the two or three friends I did have were the loyal, childhood-sweet kind, and one of them I'm still close to today, which says something lovely about us both."
+  },
+  {
+    "topic": "friends",
+    "part": "Part 1",
+    "instruction": "Have you ever made any new friends recently?",
+    "response": "Yes, through a badminton group I joined a few months back — it was intimidating turning up alone at first, but sport breaks the ice remarkably fast. A couple of the players have become genuine friends now, not just people I share a court with."
+  },
+  {
+    "topic": "friends",
+    "part": "Part 1",
+    "instruction": "What do you often talk about with your new friends?",
+    "response": "Everything from travel plans to why a series ended so badly. Since we met through sport, match gossip features heavily, but over time the conversations drift into careers, families, even half-baked business ideas. The best chats are always the unplanned ones."
+  },
+  {
+    "topic": "friends",
+    "part": "Part 1",
+    "instruction": "Should you share your secrets with your friends?",
+    "response": "It hinges entirely on trust, I'd say. A secret shared carelessly can become a weapon later, so I ration mine. With my closest friend, though, I'd confide almost anything — the trick in life is knowing the difference between a friend and a close friend."
+  },
+  {
+    "topic": "teachers",
+    "part": "Part 1",
+    "instruction": "Do you have a favourite teacher?",
+    "response": "I do — my high school English teacher. She had this gift for making grammar feel like detective work rather than drill, and she'd bring in songs and films instead of the textbook. More importantly, she took an interest in us as individuals."
+  },
+  {
+    "topic": "teachers",
+    "part": "Part 1",
+    "instruction": "Would you like to work as a teacher?",
+    "response": "There's a real pull there, honestly — few jobs let you watch the direct results of your effort in another person's growth. What deters me slightly is the workload and the endless marking. But if I ever changed careers, teaching would top the list."
+  },
+  {
+    "topic": "teachers",
+    "part": "Part 1",
+    "instruction": "Are you still in touch with your primary school teachers?",
+    "response": "I'm ashamed to say no, apart from one teacher I bumped into last year. Time and distance do their quiet work, and those relationships slip away. I've been meaning to send her a message for months — this conversation is the nudge I needed."
+  },
+  {
+    "topic": "study and work",
+    "part": "Part 1",
+    "instruction": "What is your favorite place to study?",
+    "response": "A quiet corner of a café near my flat, oddly enough. Complete silence at home makes my mind wander, whereas a gentle background murmur actually helps me focus — plus there's coffee within arm's reach, which never hurts."
+  },
+  {
+    "topic": "study and work",
+    "part": "Part 1",
+    "instruction": "Do you prefer to study at home or in a library?",
+    "response": "Home, mainly for the freedom — snacks, my own desk, nobody judging my messy notes. The library wins when I need discipline, though; something about everyone else working shames me into focusing. Different tools for different moods, I suppose."
+  },
+  {
+    "topic": "study and work",
+    "part": "Part 1",
+    "instruction": "Do you prefer to work at home or in the workplace?",
+    "response": "I'm something of a hybrid by nature. The office is unbeatable for brainstorming and quick questions; home is where deep, undisturbed work actually happens. If forced to pick one, I'd take the office for the human contact — remote life can get lonely."
+  },
+  {
+    "topic": "art",
+    "part": "Part 1",
+    "instruction": "Do you like art?",
+    "response": "Yes — though I'd call myself an enthusiastic amateur rather than a connoisseur. What draws me in is how art makes you pause; a good piece can stop you mid-step and refuse to let go. It's one of the few things that never feels like wasted time."
+  },
+  {
+    "topic": "art",
+    "part": "Part 1",
+    "instruction": "How often do you go to art galleries?",
+    "response": "Less than I'd like, frankly — maybe twice a year, usually when a special exhibition rolls through town or when I'm visiting another city. Every visit I ask myself why I don't go more often, and then another year slips by."
+  },
+  {
+    "topic": "art",
+    "part": "Part 1",
+    "instruction": "Do you like visiting art galleries in your free time?",
+    "response": "Happily, yes — though I'm selective about it. Wandering a quiet gallery with nowhere to be is my idea of a restorative afternoon, far better for the mind than doom-scrolling. The trick is going on a weekday, when you're not fighting crowds."
+  },
+  {
+    "topic": "art",
+    "part": "Part 1",
+    "instruction": "Do you like modern or traditional art?",
+    "response": "Modern, on balance — I love how it unsettles you and makes you work for meaning. But I'd never dismiss the old masters; there's a craftsmanship in traditional work that modern art often sidesteps. Ideally I get my fix of both."
+  },
+  {
+    "topic": "art",
+    "part": "Part 1",
+    "instruction": "Would you like to be an artist?",
+    "response": "As a profession? Probably not — I lack both the talent and the thick skin, frankly. But I'd genuinely enjoy painting as a hobby someday; there's something appealing about a pastime with no deadlines and no performance reviews."
+  },
+  {
+    "topic": "jewellery",
+    "part": "Part 1",
+    "instruction": "How often do you wear jewellery?",
+    "response": "Only on special occasions, to be honest — a watch, occasionally a simple necklace. I admire it on other people, but day-to-day I find jewellery a bit fussy. That's more habit than taste, I suspect."
+  },
+  {
+    "topic": "jewellery",
+    "part": "Part 1",
+    "instruction": "What types of jewellery do you like to buy?",
+    "response": "If I do buy, I go for understated pieces in decent materials — the kind that outlasts trends. I'd rather own one thing I'll still be wearing in ten years than five fashionable things I'll have tired of by next season."
+  },
+  {
+    "topic": "jewellery",
+    "part": "Part 1",
+    "instruction": "Do you usually buy jewellery?",
+    "response": "Very rarely. My rule of thumb is that I have to love a piece instantly, since anything bought on impulse tends to end up in a drawer. The last time was over a year ago — and even then, it was a gift."
+  },
+  {
+    "topic": "jewellery",
+    "part": "Part 1",
+    "instruction": "Have you ever bought any jewellery?",
+    "response": "A few times — mostly as gifts, mind you. I bought my mother a silver bracelet for her sixtieth birthday, which she hasn't taken off since, and honestly that gave me more pleasure than buying anything for myself ever has."
+  },
+  {
+    "topic": "jewellery",
+    "part": "Part 1",
+    "instruction": "Why do you think some people wear a piece of jewellery for a long time?",
+    "response": "Sentiment, mostly — a ring from a late grandmother or a wedding band isn't really jewellery so much as a portable memory. There's also the comfort of habit: wear something every morning for thirty years, and you feel undressed without it."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "What made you excited during childhood?",
+    "response": "The small things, mostly — a new comic book, snow days, the annual trip to see my grandparents. Looking back, what made them thrilling wasn't the thing itself but the anticipation, which children seem to feel at ten times adult volume."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "What makes you excited now?",
+    "response": "At the moment, an upcoming trip — I've been counting down for weeks. There's also a quieter excitement: a project at work that's finally coming together. Anticipation, I've noticed, is often more delicious than the event itself."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "Do you prefer an exciting or a relaxing activity?",
+    "response": "Relaxing, no contest — my life is stressful enough without manufactured thrills. Give me a quiet walk or a book over a rollercoaster any day. Though I'll admit a little adrenaline once in a blue moon does wake you up."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "Have you experienced anything exciting recently?",
+    "response": "Nothing dramatic, but I finally went on an impromptu weekend hike with friends — new trail, no plan, gloriously disorganised — and it reminded me how energising a bit of spontaneity is. Sometimes 'exciting' simply means breaking the routine."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "Would you like to try some activities like rock climbing?",
+    "response": "I'm tempted, genuinely — there's something magnetic about watching it on video. Whether I'd actually dangle off a cliff is another matter, though; my head for heights is questionable. Maybe I'd start with an indoor wall and see if I survive that first."
+  },
+  {
+    "topic": "exciting activities",
+    "part": "Part 1",
+    "instruction": "Do you think activities like scuba diving are exciting?",
+    "response": "Exciting and slightly terrifying in equal measure, I'd imagine. The idea of drifting weightless over a coral reef is magical — but the whole breathing-apparatus side of it gives me pause. Still, it's firmly on my someday list."
+  },
+  {
+    "topic": "pen and pencil",
+    "part": "Part 1",
+    "instruction": "Do you prefer to use a pen or pencil?",
+    "response": "Pen, without much hesitation — I like the permanence of ink and the way it glides. Pencils have their place, mind you: crosswords, sketching, anything I might live to regret. But a good pen makes even my shopping list feel deliberate."
+  },
+  {
+    "topic": "pen and pencil",
+    "part": "Part 1",
+    "instruction": "When do you usually use a pen or pencil?",
+    "response": "Pens dominate my day — notes, signing forms, margin comments on student work. Pencils only really come out when I'm drafting something I'll likely scrap, or doing puzzles. It's a neat division: ink for what counts, graphite for rehearsals."
+  },
+  {
+    "topic": "pen and pencil",
+    "part": "Part 1",
+    "instruction": "Has your school ever taught you how to use pencils?",
+    "response": "They did — vividly. There was a whole rigmarole about the tripod grip, and teachers patrolling the rows for what they called 'scruffy' handwriting. I remember being oddly proud the day I graduated from pencil to pen, as if it were a rite of passage."
+  },
+  {
+    "topic": "pen and pencil",
+    "part": "Part 1",
+    "instruction": "Has someone ever taught you how to use a pen/pencil?",
+    "response": "My grandmother, actually, before school even started. She'd sit with me, guiding my hand letter by letter, endlessly patient with my scribbles. Whether that's why my handwriting is still reasonably legible today, I couldn't say — but I certainly owe her the attempt."
+  },
+  {
+    "topic": "stationery",
+    "part": "Part 1",
+    "instruction": "When was the last time you bought a pen/pencil?",
+    "response": "Embarrassingly recently, considering how little I write by hand these days — about a month ago, a metal gel pen. I'd left my old one in a meeting room and mourned it enough to buy a replacement the same day. Small attachments, strange creatures."
+  },
+  {
+    "topic": "stationery",
+    "part": "Part 1",
+    "instruction": "Do you think a pen or a pencil is a good gift?",
+    "response": "A quality pen, absolutely — it's one of those rare gifts that's both practical and personal, especially engraved. For students or colleagues it works a treat. A basic pencil, less so; that's more of a stocking-filler than a gift."
+  },
+  {
+    "topic": "stationery",
+    "part": "Part 1",
+    "instruction": "Do you think pen or pencil will still be popular in the future?",
+    "response": "Yes, oddly enough. The more digital life becomes, the more handwriting gains a certain romance — people journal and sketch precisely because screens dominate everything else. Necessity may fade, but ritual and sentiment will keep pens and pencils alive."
+  },
+  {
+    "topic": "outer space",
+    "part": "Part 1",
+    "instruction": "Do you like watching the stars?",
+    "response": "Very much, though city light pollution ruins it — you need to get well out of town for a proper sky. There's something deeply humbling about staring up at a few thousand stars and remembering how little of the universe any of us will ever see."
+  },
+  {
+    "topic": "outer space",
+    "part": "Part 1",
+    "instruction": "Have you ever learnt about outer space?",
+    "response": "Bits and pieces — school physics gave me the foundations, and documentaries filled in the wonder. I wouldn't claim any real grasp of, say, black holes; I understand the metaphors, which is probably how most of us experience astrophysics."
+  },
+  {
+    "topic": "outer space",
+    "part": "Part 1",
+    "instruction": "Would you like to go to outer space in the future?",
+    "response": "In a heartbeat — if someone offered me a seat, I'd be packed before they finished the sentence. Realistically I'm more likely to afford a moon rock, but a person can dream. Zero gravity alone would be worth the ticket price."
+  },
+  {
+    "topic": "outer space",
+    "part": "Part 1",
+    "instruction": "Have you ever watched any movies about outer space?",
+    "response": "Plenty — 'Interstellar' is my benchmark for the genre; it married real physics with genuine emotion. 'The Martian' too, for making problem-solving heroic. Space films work, I think, because isolation plus vastness amplifies every human feeling."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "Do you like wearing a T-shirt?",
+    "response": "They're my uniform, essentially. A well-cut T-shirt goes with everything and demands zero thought, which is exactly what I want on a Saturday morning. If comfort counts as a fashion statement, then consider me a devoted follower."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "How often do you wear a T-shirt?",
+    "response": "Most days outside of work, honestly — weekends are practically T-shirt exclusive. In summer it's my default from morning till night. I own more T-shirts than any other single item of clothing, which rather tells its own story."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "What kinds of T-shirts do you like to wear?",
+    "response": "Plain, well-fitting, dark colours — I've grown out of the loud slogan phase of my twenties. Though I make an exception for T-shirts from places I've travelled; each one is a folded-up souvenir I can actually wear, which beats a fridge magnet."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "Do you like T-shirts with pictures/patterns?",
+    "response": "On other people, often brilliantly. On me, occasionally — a subtle graphic is fine, but I find busy patterns age quickly and pigeonhole an outfit. Minimalist is more forgiving, and it survives fashion cycles far better."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "Do you think older people who wear T-shirts are fashionable?",
+    "response": "Absolutely — arguably more so, because it's a deliberate choice rather than a default. A silver-haired man in a crisp, well-fitted tee and good jeans looks far cooler than most twenty-year-olds. Style, I maintain, is just confidence expressed through clothes."
+  },
+  {
+    "topic": "T-shirts",
+    "part": "Part 1",
+    "instruction": "Have you ever bought T-shirts at souvenir shops?",
+    "response": "I have, though I regret most of them — garish prints that seemed charming in situ and inexplicable back home. That said, one from a tiny bookshop in Edinburgh has survived many wardrobe culls. The trick is buying things you'd wear anyway."
+  },
+  {
+    "topic": "staying up late",
+    "part": "Part 1",
+    "instruction": "Do you often stay up late?",
+    "response": "Far less than in my twenties, I'm pleased to say. These days midnight is my outer limit unless something genuinely grips me — a book I can't put down, typically. Sleep has become something of a hobby I take very seriously."
+  },
+  {
+    "topic": "staying up late",
+    "part": "Part 1",
+    "instruction": "Is it easy to wake up in the morning if you stay up late?",
+    "response": "Brutal, and not just the tiredness — the whole next day runs slightly off-kilter. Coffee papers over the cracks for a few hours, but my focus is undeniably worse. I've learned the hard way that late nights always send an invoice."
+  },
+  {
+    "topic": "staying up late",
+    "part": "Part 1",
+    "instruction": "Did you stay up late often when you were younger?",
+    "response": "Constantly, and with zero consequences — or so it seemed at the time. University was the golden era: 2 a.m. conversations, gaming marathons, lectures slept through. What I couldn't appreciate then is that recovery gets slower with every birthday."
+  },
+  {
+    "topic": "staying up late",
+    "part": "Part 1",
+    "instruction": "What do you usually do when you stay up late?",
+    "response": "Usually losing a battle with a book I swore I'd only skim, or falling down a documentary rabbit hole. Work deadlines account for the remainder. What I never do is stay up late for something genuinely worthwhile — it's always something absorbing rather than important."
+  },
+  {
+    "topic": "languages",
+    "part": "Part 1",
+    "instruction": "What languages do you speak?",
+    "response": "Mandarin natively, English fluently enough to teach it, and enough French to order dinner and get slightly lost. I can string together a bit of Japanese too, though 'stringing together' is doing rather generous work there."
+  },
+  {
+    "topic": "languages",
+    "part": "Part 1",
+    "instruction": "What languages have you learned at school?",
+    "response": "English was compulsory from primary school, as it is virtually everywhere here, and I picked up French at university for two years. The teaching was heavy on grammar and light on speaking — which is why so many of us can read far better than we converse."
+  },
+  {
+    "topic": "languages",
+    "part": "Part 1",
+    "instruction": "Have you ever learnt about a foreign language?",
+    "response": "Yes, French, plus a self-taught smattering of Japanese. The Japanese came purely from anime and language apps, which sounds unserious but actually stuck. Language learning works best, I've found, when you smuggle it in through something you already enjoy."
+  },
+  {
+    "topic": "languages",
+    "part": "Part 1",
+    "instruction": "Do you think it’s challenging to learn a foreign language?",
+    "response": "Undeniably — and the hard part isn't vocabulary, it's the plateau. You reach a stage where you can function but not flourish, and progress becomes invisible. Most people quit right there. The ones who persist treat it as a decade-long project, not a six-month sprint."
+  },
+  {
+    "topic": "languages",
+    "part": "Part 1",
+    "instruction": "Do you think it’s necessary for Chinese students nowadays to learn foreign languages?",
+    "response": "'Necessary' is perhaps too strong, but enormously valuable, certainly. English in particular still gates access to research, global business and travel. More than that, learning any second language rewires how you think — students come out more flexible, not just more employable."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Are there many small businesses in China?",
+    "response": "Everywhere — the corner breakfast stall, the tailor, the family noodle shop three generations deep. They're the texture of daily life here. E-commerce has squeezed some of them, admittedly, but the ones with real personality keep their loyal followings."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Do you know any small businesses?",
+    "response": "Quite well, actually — the bakery near my flat knows my order before I've opened my mouth, and there's a tiny repair shop where the owner once fixed my laptop and refused to charge for the inspection. That's the kind of thing chains never do."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Do you prefer buying things from big companies or small businesses?",
+    "response": "Small businesses, wherever I can. Yes, chains are cheaper and frictionless, but small shops give you a relationship along with the goods — honest advice, genuine expertise, the occasional extra thrown in. Money spent locally tends to stay local, too."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Do you prefer buying things in supermarkets or small shops?",
+    "response": "Split decision: weekly staples from the supermarket, where price and range win; anything special — gifts, fresh bread, cheese I can't pronounce — from small shops. Convenience stores catch everything in between, usually at midnight."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Have you ever worked in any small businesses?",
+    "response": "Yes — two university summers in a family-run bookstore. I did everything from shelving stock to manning the till during the festival rush. It taught me more about human nature in two months than any course: you see all of humanity at a bookshop counter."
+  },
+  {
+    "topic": "small businesses",
+    "part": "Part 1",
+    "instruction": "Would you like to set up a small business?",
+    "response": "The dream is tempting — being your own boss, building something with your name on it. But I've watched friends do it, and the behind-the-scenes reality is long hours and razor-thin margins. Someday, perhaps, once I have both the idea and the financial cushion."
+  },
+  {
+    "topic": "science",
+    "part": "Part 1",
+    "instruction": "Do you like science?",
+    "response": "Yes — though as an adult I mostly experience it second-hand, through documentaries and popular science books. What I appreciate most now is the mindset: science is simply disciplined curiosity, and the modern world runs on it whether we notice or not."
+  },
+  {
+    "topic": "science",
+    "part": "Part 1",
+    "instruction": "Did you like learning science when you were young?",
+    "response": "Loved it, mostly because our physics teacher was a born showman — he'd turn lessons into demonstrations, and something was always smoking or sparking. Nothing sells a subject quite like watching it explode slightly. Chemistry quickly became my favourite hour of the week."
+  },
+  {
+    "topic": "science",
+    "part": "Part 1",
+    "instruction": "Do you use science in your daily life?",
+    "response": "Incessantly, though mostly without noticing — every kettle boiled and phone charged is applied physics, every cooked meal is chemistry you can eat. Most of us simply inherit the fruits of science without ever recognising the tree they grew on."
+  },
+  {
+    "topic": "science",
+    "part": "Part 1",
+    "instruction": "Is there any science you want to learn in the future?",
+    "response": "AI, definitely — not to build it, but to understand what it's actually doing to the world around us. Quantum computing fascinates me too, in the way a magic trick does: I know I'll never master the maths, but I'd love to grasp the principle."
+  },
+  {
+    "topic": "science",
+    "part": "Part 1",
+    "instruction": "Is it necessary for people to learn science?",
+    "response": "I'd say basic scientific literacy, yes — not everyone needs the equations, but everyone needs to judge claims. In an era of health misinformation and climate debates, understanding what solid evidence looks like is closer to a survival skill than a school subject."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "What do you usually do on weekends?",
+    "response": "Nothing grand — a long run or a cycle if the weather cooperates, hours lost in a book, and food that takes longer to cook than to eat. Weekends are for restoring myself, not for performing an interesting life."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "What did you do last weekend?",
+    "response": "Delightfully uneventful: Saturday was a market trip that turned into a three-hour wander, and Sunday I barely left the flat — reading, napping, and a marathon cooking session. Sometimes the best weekend is the one with no story attached."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "Do you often work or study at weekends?",
+    "response": "I try fiercely to protect them, with mixed success. Deadlines don't always respect the calendar, so the odd Saturday gets sacrificed. But I've learned the hard way that a weekend of work borrowed is a week of energy stolen."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "What’s your favourite part of the weekend?",
+    "response": "Saturday morning, hands down — that stretch where the whole weekend is still unspent possibility. No alarm, coffee taken slowly, nowhere to be until noon. By Sunday evening the mood has curdled into Monday dread, so Saturdays carry all the joy."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "Do you think weekends are important to you?",
+    "response": "Essential, not merely important — they're the pressure valve that keeps the rest of the week functional. I've worked through enough of them to know the cost: by Wednesday I'm a worse colleague and frankly a worse person. Rest isn't a reward; it's maintenance."
+  },
+  {
+    "topic": "weekends",
+    "part": "Part 1",
+    "instruction": "Do you make plans for a weekend?",
+    "response": "Loosely. I'll pencil in the social parts — dinners, a match, that sort of thing — but I deliberately leave gaps. Over-scheduling a weekend turns it into a second workweek, and nobody needs two of those."
+  },
+  {
+    "topic": "chocolate",
+    "part": "Part 1",
+    "instruction": "Do you like eating chocolate?",
+    "response": "Unapologetically, yes. I'm a dark-chocolate partisan — the intense, seventy-per-cent kind that makes milk chocolate taste like sugared wax by comparison. It's my small daily luxury, and I see no reason whatsoever to apologise for it."
+  },
+  {
+    "topic": "chocolate",
+    "part": "Part 1",
+    "instruction": "How often do you eat chocolate?",
+    "response": "Daily, though in modest quantities — a square or two after dinner is the ritual. I've made my peace with it: life without chocolate is technically possible but not worth living. Moderation, I always say, is for people with less self-knowledge."
+  },
+  {
+    "topic": "chocolate",
+    "part": "Part 1",
+    "instruction": "Did you eat chocolate when you were a kid?",
+    "response": "Constantly — I was a chocolate monster like every child. Birthday chocolate, festival chocolate, chocolate smuggled before dinner and denied afterwards. My tastes were entirely unsophisticated then: the sweeter and milkier, the better."
+  },
+  {
+    "topic": "chocolate",
+    "part": "Part 1",
+    "instruction": "What’s your favourite flavour?",
+    "response": "Dark, unhesitatingly — somewhere between seventy and eighty-five per cent, where the bitterness starts to win. The flavour is deeper, less sugary, and a single square satisfies in a way a whole milk bar never could. My younger self would be baffled."
+  },
+  {
+    "topic": "chocolate as gifts",
+    "part": "Part 1",
+    "instruction": "Have you ever given chocolate as a gift to others?",
+    "response": "Often — it's my default when I don't know what to give. Nice chocolate in a decent box reads as thoughtful without overreaching, and unlike wine, nobody has to pretend to enjoy it. It has a nearly perfect gift record, in my experience."
+  },
+  {
+    "topic": "chocolate as gifts",
+    "part": "Part 1",
+    "instruction": "Do you think it’s good to give chocolate as a gift to others?",
+    "response": "Broadly, yes, with two caveats: check they're not on a diet, and never buy gas-station chocolate. Get it right, though, and it's the rare gift that's affordable on any occasion yet still feels like a small luxury. Few gifts manage both."
+  },
+  {
+    "topic": "chocolate as gifts",
+    "part": "Part 1",
+    "instruction": "Why do you think chocolate is popular around the world?",
+    "response": "The chemistry, I think — sugar plus fat plus that particular melt-at-body-temperature texture is basically engineered for human brains. Add a century of clever marketing and gift-giving tradition, and you have a global habit no competing treat has managed to displace."
+  },
+  {
+    "topic": "keys",
+    "part": "Part 1",
+    "instruction": "Do you always bring a lot of keys with you?",
+    "response": "Three or four, all on one ring I've carried so long it's practically an organ — flat keys, bike lock, and a couple of mystery keys I'm afraid to remove, in case something somewhere quietly stops opening."
+  },
+  {
+    "topic": "keys",
+    "part": "Part 1",
+    "instruction": "Have you ever lost your keys?",
+    "response": "Twice that I can recall, and both times it was pure carelessness — once left dangling in a café door, once down the back of a sofa I'd already searched twice. Now I keep a bowl by the entrance, and the keys live there or nowhere."
+  },
+  {
+    "topic": "keys",
+    "part": "Part 1",
+    "instruction": "What do you usually use keys for?",
+    "response": "The usual suspects: the front door, my bike lock and a filing cabinet at work. Nothing exotic, honestly — though I do keep my first flat’s key on the ring purely for sentimental reasons, which my friends consider mildly eccentric."
+  },
+  {
+    "topic": "keys",
+    "part": "Part 1",
+    "instruction": "Do you think people will still use keys in the future?",
+    "response": "Physical ones, increasingly less — phones and fingerprint locks are quietly swallowing their jobs. But I doubt keys will vanish entirely; there’s something reassuring about a backup that never runs out of battery. Homes may go keyless first; padlocks will linger for years."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "How often do you go to a library?",
+    "response": "Every couple of weeks, usually to work somewhere that isn't my desk. Libraries these days are less about borrowing books and more about borrowing an atmosphere — quiet, free, and strangely productive, with none of your home's temptations."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "Did you often go to a library when you were a child?",
+    "response": "Devotedly — Saturday mornings meant the library, and the children's section was my first real kingdom. I'd leave with the maximum number of books allowed and finish every one. The librarians knew me by name, which I considered a great honour."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "Do Chinese children often go to libraries?",
+    "response": "They do, though with a twist — mostly to study rather than to browse. Walk into any public library on a weekend and you'll find it colonised by students doing homework. Leisure reading is growing, but exam pressure still rules the building."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "Did Chinese people often go to libraries when they were young?",
+    "response": "Far less — libraries were scarce outside the big cities, and books were expensive enough that families owned only a handful. Reading was largely a luxury of the urban middle class. The explosion of public libraries in recent decades has genuinely democratised access."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "Do you think it’s necessary to have libraries in university?",
+    "response": "Indispensable — and not merely for the books. It's the environment: a silent hall full of people all grinding away is the most effective motivation ever devised. You simply cannot replicate that focus at home, where the bed is always calling."
+  },
+  {
+    "topic": "libraries",
+    "part": "Part 1",
+    "instruction": "Would you like to work in a library?",
+    "response": "Genuinely tempting, in a quiet-life sort of way — surrounded by books, helping people find things, no quarterly targets looming. Part of me suspects I'd be romanticising it, and that the job is mostly stamping and shelving. But as fantasies go, it's a peaceful one."
+  },
+  {
+    "topic": "the internet",
+    "part": "Part 1",
+    "instruction": "When did you start using the internet?",
+    "response": "Around 2001, on the family computer, with dial-up that tied up the phone line — my mother still brings up the phone bills. My first memories are of agonisingly slow pages and the thrill of that modem handshake. It genuinely felt like the future arriving."
+  },
+  {
+    "topic": "the internet",
+    "part": "Part 1",
+    "instruction": "How often do you use the internet?",
+    "response": "Constantly, like everyone — professionally it's my livelihood, and personally it's my newspaper, post office, video shop and mailbox rolled into one. I do try to keep meals and the last hour before bed offline, with varying degrees of success."
+  },
+  {
+    "topic": "mobile phones",
+    "part": "Part 1",
+    "instruction": "Do you think people always use mobile phones?",
+    "response": "Functionally, yes — walk through any railway station and it's a field of bowed heads. Phones have swallowed the camera, the wallet, the map and the newspaper. For most of us, the phone is the last thing we touch at night and the first thing each morning."
+  },
+  {
+    "topic": "mobile phones",
+    "part": "Part 1",
+    "instruction": "Do you think you spend too much time on the internet/your phone?",
+    "response": "By any honest measure, yes — my monthly screen-time report makes grim reading. The strange part is that I rarely enjoy it; it's compulsion more than pleasure. I've started leaving the phone in another room for stretches, and the withdrawal is genuinely telling."
+  },
+  {
+    "topic": "mobile phones",
+    "part": "Part 1",
+    "instruction": "What are the differences between reading things on the phone and paper?",
+    "response": "Screens win on convenience — instant access, searchable, weigh nothing. Paper wins on everything else: better retention, kinder to the eyes, and no notification ambush halfway through a chapter. For anything longer than an article, I still insist on paper."
+  },
+  {
+    "topic": "the internet",
+    "part": "Part 1",
+    "instruction": "How does the Internet influence people?",
+    "response": "Quietly and completely — it rewired how we shop, learn, argue and even remember. Some of it is a gift: knowledge once locked inside universities is now free to all. Some of it is corrosive: outrage travels faster than facts. Mostly, though, it has amplified whatever we already were."
+  },
+  {
+    "topic": "mobile phones",
+    "part": "Part 1",
+    "instruction": "On what occasions are you not allowed to use a mobile phone?",
+    "response": "Exams and cinemas, by rule; meetings and dinners, by courtesy; flights, by law. The funny thing is how each context makes you notice the habit — like reaching for a silent phone during a film and catching your own hand mid-air, feeling faintly embarrassed."
+  },
+  {
+    "topic": "the internet",
+    "part": "Part 1",
+    "instruction": "How would you feel if there was no internet?",
+    "response": "Lost for roughly a day, then probably liberated. Work would grind to a halt, admittedly, and I'd feel genuinely cut off. But I remember pre-internet holidays fondly — books finished, conversations actually had, boredom survived. The panic would be ours, not the world's."
+  },
+  {
+    "topic": "numbers",
+    "part": "Part 1",
+    "instruction": "Do you usually use numbers?",
+    "response": "Endlessly, though mostly without noticing — prices, cooking times, commute minutes, the slowly draining battery percentage. Numbers run the background of modern life; we only consciously register them when the bill arrives and stings."
+  },
+  {
+    "topic": "numbers",
+    "part": "Part 1",
+    "instruction": "Are you good at remembering phone numbers?",
+    "response": "Terribly, and I blame my phone entirely — it remembers everyone, so I've stopped trying. I can recall exactly three numbers: my own, my parents' landline from childhood, and the emergency services. That last one I learned at school, and it has stuck for life."
+  },
+  {
+    "topic": "numbers",
+    "part": "Part 1",
+    "instruction": "Are you good at maths?",
+    "response": "Competent, not gifted. Everyday arithmetic is fine, and mental percentages are my party trick. But I peaked at school-level calculus, and I'm entirely at peace with that. Maths, like swimming, is a skill worth maintaining at survival level."
+  },
+  {
+    "topic": "numbers",
+    "part": "Part 1",
+    "instruction": "What’s your favourite number?",
+    "response": "Eight, for the thoroughly unoriginal reason that it sounds like the word for 'prosperity' in Chinese — my grandmother drummed that into me, and phone numbers ending in eight still command a premium here. Superstitious? Completely. Alone in it? Absolutely not."
+  },
+  {
+    "topic": "numbers",
+    "part": "Part 1",
+    "instruction": "Would you use numbers in your job (in the future)?",
+    "response": "Certainly — teaching means tracking scores, attendance and progress data, and more importantly interpreting what the numbers actually mean, because numbers without interpretation are just noise. Whatever I end up doing, I doubt I'll escape them, and I've stopped trying."
+  },
+  {
+    "topic": "morning routine",
+    "part": "Part 1",
+    "instruction": "Is breakfast important for you?",
+    "response": "Crucially so — I'm useless without it. Skip breakfast and by ten o'clock I'm unfocused and irritable, secretly negotiating with myself about an early lunch. Porridge or eggs, and I'm a functioning adult. It's the one meal I never trade away, even when running late."
+  },
+  {
+    "topic": "morning routine",
+    "part": "Part 1",
+    "instruction": "What’s your daily morning routine?",
+    "response": "Fairly fixed: wake at six-thirty, a large glass of water, twenty minutes of meditation, then breakfast while skimming the news. The phone stays off until I'm dressed. It sounds impressively disciplined written down, but really it's habit and self-preservation."
+  },
+  {
+    "topic": "morning routine",
+    "part": "Part 1",
+    "instruction": "Is your morning routine the same as that when you were young?",
+    "response": "Unrecognisably different. As a child, mornings were chaos — dragged out of bed, breakfast bolted down, school bag hunted for at the door. I've simply engineered, as an adult, what I refused back then: quiet, order, and enough time to think before speaking to anyone."
+  },
+  {
+    "topic": "morning routine",
+    "part": "Part 1",
+    "instruction": "Do you want a different morning routine in the future?",
+    "response": "I'd love to add movement — a proper walk or a swim before the day begins, rather than shuffling straight to the desk. And eventually, mornings slow enough to include an unhurried breakfast with someone. Same order, more margin — that's the dream version."
+  },
+  {
+    "topic": "news",
+    "part": "Part 1",
+    "instruction": "Have you seen the news this morning?",
+    "response": "Not yet — the phone stays off until after breakfast, and the news comes later, quite deliberately. I've found that headlines before coffee merely tint the whole day grey. The world's crises keep perfectly well until eight a.m."
+  },
+  {
+    "topic": "news",
+    "part": "Part 1",
+    "instruction": "Do you often talk about the news with others?",
+    "response": "Frequently — it's the social glue of lunch breaks. I enjoy comparing takes, too: a colleague of mine reads a different outlet, so we get two versions of every story. I steer clear of purely political arguments, though; those cost friendships and gain nothing."
+  },
+  {
+    "topic": "news",
+    "part": "Part 1",
+    "instruction": "Would you like to be a journalist in the future?",
+    "response": "Tempting in theory — I'd love an occupation built on endless curiosity. But the hours, the relentless deadlines and the current hostility towards the press would wear me down fast. I'll stay an enthusiastic reader instead, and support the trade from the sofa."
+  },
+  {
+    "topic": "reading",
+    "part": "Part 1",
+    "instruction": "Which do you prefer, digital or paper books?",
+    "response": "Paper, without hesitation. Screens are convenient, but paper is an experience — the weight of the book, the smell of the pages, the quiet satisfaction of progress measured in bookmarks. Studies do back me up on retention, though honestly I'd defend paper on pure sentiment alone."
+  },
+  {
+    "topic": "reading",
+    "part": "Part 1",
+    "instruction": "When do you usually read online?",
+    "response": "Mostly in fragments — articles over lunch, long reads on the commute, and the occasional shameless late-night scroll. Actual books on screens I've given up on; my brain treats a screen as permission to doze. Online suits short-form; the couch suits chapters."
+  },
+  {
+    "topic": "reading",
+    "part": "Part 1",
+    "instruction": "What are the benefits of reading e-books?",
+    "response": "The obvious one is portability — an entire library in your pocket, which transforms travel. Add instant delivery at midnight, adjustable fonts for tired eyes, and built-in dictionaries. I'd add one more: nobody can see what you're reading, which is occasionally a mercy."
+  },
+  {
+    "topic": "reading",
+    "part": "Part 1",
+    "instruction": "What kinds of books do you like to read?",
+    "response": "Fiction-wise, crime and literary novels in equal measure — I want both a puzzle and beautiful sentences. Non-fiction runs to history and popular science. What I avoid are self-improvement books; life is too short for bullet-pointed wisdom from a guru."
+  },
+  {
+    "topic": "reading",
+    "part": "Part 1",
+    "instruction": "Do you think people spend much time reading books?",
+    "response": "Less than before, that seems clear — screens offer entertainment at zero effort, and books demand some. Yet book sales remain surprisingly healthy, so the picture is split: fewer casual readers, but committed ones reading more than ever. Reading has narrowed, not died."
+  },
+  {
+    "topic": "sharing",
+    "part": "Part 1",
+    "instruction": "What do you often like to share with others?",
+    "response": "Whatever I've recently loved — articles, music, an episode that emotionally wrecked me. Sharing a recommendation is half the pleasure of enjoying something; experiencing it alone feels oddly incomplete. My friends have learned to brace themselves when I open with 'you have to see this'."
+  },
+  {
+    "topic": "sharing",
+    "part": "Part 1",
+    "instruction": "What do you not share with others?",
+    "response": "Money matters and family friction, chiefly — those I keep close. Also half-formed opinions about people, which make excellent gossip and terrible contributions to the world. And plans before they're real: announcing goals, in my experience, drains the will to achieve them."
+  },
+  {
+    "topic": "sharing",
+    "part": "Part 1",
+    "instruction": "Did your family encourage/teach you to share something with others?",
+    "response": "Strongly — my mother's rule was that whatever was in my hands got halved for whoever was present. I resented it at six and understand it completely at thirty. Sharing was never presented as a grand virtue, though; it was simply what our family did, which is the far more effective lesson."
+  },
+  {
+    "topic": "sports",
+    "part": "Part 1",
+    "instruction": "What sports do/did you do at school?",
+    "response": "The usual lineup — basketball in winter, table tennis whenever a table was free, and the annual sports day, where I specialised in events requiring more enthusiasm than speed. Team sports, I'd argue, taught me more about cooperation than any classroom ever did."
+  },
+  {
+    "topic": "sports",
+    "part": "Part 1",
+    "instruction": "What sports do you like?",
+    "response": "Tennis, these days — I took it up three years ago and I'm reliably mediocre at it, which rather suits me. It's chess with running: the tactics keep it interesting, and landing a well-placed drop shot against a better player is my purest joy."
+  },
+  {
+    "topic": "sports",
+    "part": "Part 1",
+    "instruction": "What are the benefits of doing sports?",
+    "response": "The visible ones — fitness, weight, stamina — are almost the least of it. Sport reliably repairs my mood, sharpens my focus, and is the only place my mind switches off completely. Plus, teams hand you friendships you'd never have made otherwise. It's cheaper than therapy, too."
+  }
+]
