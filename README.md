@@ -66,6 +66,41 @@ Two practice modes:
 
 ---
 
+## 📸 Preview
+
+### 🎤 Cambridge Speaking Test
+
+| Part 1 — Introduction & Lifestyle | Part 2 — Cue Card |
+| --- | --- |
+| ![Part 1](public/Preview/lumi-p1.png) | ![Part 2](public/Preview/lumi-p2.png) |
+
+| Part 3 — Two-Way Discussion | Test Selection |
+| --- | --- |
+| ![Part 3](public/Preview/lumi-p3.png) | ![Test selection](public/Preview/lumi-test.png) |
+
+### 📊 Score Report
+
+| Overall Evaluation | 4-Pillar Score Cards |
+| --- | --- |
+| ![Score report](public/Preview/lumi-report.png) | ![4-Pillar scores](public/Preview/lumi-report-2.png) |
+
+| Band 8+ Sentence Upgrades | Phonetic Coaching |
+| --- | --- |
+| ![Sentence upgrades](public/Preview/lumi-report-3.png) | ![Phonetic coaching](public/Preview/lumi-report-4.png) |
+
+### 📚 Lessons, Chat & Settings
+
+| Personalized Lesson Studio | 1v1 Chat (Interview Mode) |
+| --- | --- |
+| ![Custom lessons](public/Preview/lumi-custom-lessons.png) | ![1v1 interview](public/Preview/lumi-1v1-interview.png) |
+
+| AI Engine Settings |
+| --- |
+| ![Settings](public/Preview/setings.png) |
+
+---
+
+## 🚀 Quick Start
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -136,7 +171,7 @@ LLM_API_KEY=none
 
 ```
 ┌──────────────────────────────────────────────────────────┐
-│                    Frontend (React)                        │
+│                    Frontend (React)                               │
 │  ┌──────────┐ ┌──────────┐ ┌──────────┐ ┌──────────┐   │
 │  │Diagnostic│ │  Score   │ │  Lesson  │ │   1v1    │   │
 │  │   Test   │ │  Report  │ │  Studio  │ │   Chat   │   │
